@@ -1,0 +1,2277 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:oa="http://www.w3.org/ns/oa#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:prov="http://www.w3.org/ns/prov#"
+    xmlns:shacl="http://www.w3.org/ns/shacl#">
+  <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2">
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.273843Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202017.csv?inline=false"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.405210Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202017.csv?inline=false"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561635Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562014Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561999Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A0">
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561721Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A1">
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561714Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561644Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A2">
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562074Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561688Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561670Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561653Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562090Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562047Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561679Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561660Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a">
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562105Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A3">
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562178Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202018.csv?inline=false"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.244847Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562142Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562114Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562134Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562150Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562124Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.406861Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202018.csv?inline=false"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562161Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562488Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562434Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562421Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A4">
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562474Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A5">
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562186Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562451Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00">
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567276Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:24.341549Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202019.csv?inline=false"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567269Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A6">
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567651Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567628Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A7">
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567333Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567588Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567302Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A8">
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567341Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567262Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567245Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567254Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567665Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567600Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.240265Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202019.csv?inline=false"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567312Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1">
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568081Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568089Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A9">
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568147Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A10">
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568140Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568097Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.240545Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202014.csv?inline=false"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568394Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568113Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568121Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568419Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568381Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568073Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568105Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202014.csv?inline=false"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.404918Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A11">
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568448Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568460Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb">
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.265017Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/Data%20dictionary%20-%20Mobility%20periods.xlsx?inline=false"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562594Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A12">
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.566768Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.566742Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A13">
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562632Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562605Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.566717Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.566694Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562525Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562539Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562587Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.275129Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/Data%20dictionary%20-%20Mobility%20periods.xlsx?inline=false"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562507Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.566784Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A14">
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562625Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.562547Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce">
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568060Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A15">
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567760Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568007Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567994Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567742Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.246600Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202015.csv?inline=false"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567708Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567715Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567698Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567724Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A16">
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567768Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567679Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement rdf:nodeID="A17">
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568047Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.567732Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:23.256120Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202015.csv?inline=false"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >200</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568024Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2">
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#threeStars"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+        <prov:wasDerivedFrom>
+          <dqv:QualityMeasurement rdf:nodeID="A18">
+            <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+            <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+            >true</dqv:value>
+            <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-04T00:28:22.566890Z</prov:generatedAtTime>
+            <dqv:computedOn>
+              <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0">
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA3%20mobilities%20eligible%20finalised%20started%20in%202014-2019.csv?inline=false"/>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+                    >200</dqv:value>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:23.307171Z</prov:generatedAtTime>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566841Z</prov:generatedAtTime>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566824Z</prov:generatedAtTime>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >false</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566833Z</prov:generatedAtTime>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >false</dqv:value>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.567231Z</prov:generatedAtTime>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement rdf:nodeID="A19">
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566899Z</prov:generatedAtTime>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566851Z</prov:generatedAtTime>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >false</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566813Z</prov:generatedAtTime>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.567174Z</prov:generatedAtTime>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement rdf:nodeID="A18"/>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement rdf:nodeID="A20">
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.567199Z</prov:generatedAtTime>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.567156Z</prov:generatedAtTime>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:23.246891Z</prov:generatedAtTime>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+                    >200</dqv:value>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+                    <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA3%20mobilities%20eligible%20finalised%20started%20in%202014-2019.csv?inline=false"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566802Z</prov:generatedAtTime>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >false</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.566867Z</prov:generatedAtTime>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+                <dqv:hasQualityMeasurement>
+                  <dqv:QualityMeasurement>
+                    <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+                    <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                    >true</dqv:value>
+                    <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                    <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                    >2022-04-04T00:28:22.567142Z</prov:generatedAtTime>
+                  </dqv:QualityMeasurement>
+                </dqv:hasQualityMeasurement>
+              </rdf:Description>
+            </dqv:computedOn>
+          </dqv:QualityMeasurement>
+        </prov:wasDerivedFrom>
+        <prov:wasDerivedFrom rdf:nodeID="A20"/>
+        <prov:wasDerivedFrom rdf:nodeID="A19"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#temporalAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561508Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:24.379463Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >5</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#contextualityScoring"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561569Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <oa:hasBody>
+          <shacl:ValidationReport>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/EST"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/EST&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/LTU"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/LTU&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/POL"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/POL&gt;</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A23"/>
+                <shacl:resultMessage>minCount[1]: Invalid cardinality: expected min 1: Got count = 0</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#MinCountConstraintComponent"/>
+                <shacl:focusNode rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/XLSX&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A25"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#DataThemeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/data-theme/INTR&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/dcat#theme"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/TUR&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/TUR"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/BEL"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/BEL&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/NOR&gt;</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/NOR"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/CSV&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/ITA"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/ITA&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/MKD"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/MKD&gt;</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/MLT"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/MLT&gt;</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/7d22a32c-f00e-4216-b2aa-cdc207c3f3d2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/CSV&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/language"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#LanguageRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/language/ENG&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A26"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/HUN"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/HUN&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#MinCountConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+                <shacl:focusNode rdf:resource="http://purl.org/adms/status/Completed"/>
+                <shacl:sourceShape rdf:nodeID="A23"/>
+                <shacl:resultMessage>minCount[1]: Invalid cardinality: expected min 1: Got count = 0</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/LVA"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/LVA&gt;</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/language"/>
+                <shacl:focusNode>
+                  <rdf:Description rdf:about="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514">
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement rdf:nodeID="A27">
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568551Z</prov:generatedAtTime>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeNonProprietary"/>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement rdf:nodeID="A28">
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568544Z</prov:generatedAtTime>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeMachineInterpretable"/>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlStatusCode"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+                        >200</dqv:value>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:23.277559Z</prov:generatedAtTime>
+                        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202016.csv?inline=false"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568783Z</prov:generatedAtTime>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#knownLicence"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#licenceAvailability"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568767Z</prov:generatedAtTime>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatMediaTypeVocabularyAlignment"/>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568755Z</prov:generatedAtTime>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#formatAvailability"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568516Z</prov:generatedAtTime>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568500Z</prov:generatedAtTime>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#downloadUrlAvailability"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#mediaTypeAvailability"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568527Z</prov:generatedAtTime>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568474Z</prov:generatedAtTime>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >false</dqv:value>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#byteSizeAvailability"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >false</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#atLeastFourStars"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568816Z</prov:generatedAtTime>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessUrlStatusCode"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+                        >200</dqv:value>
+                        <dqv:computedOn rdf:resource="https://gitlab.com/data.europa.eu/data-provider-repository/-/raw/master/dg-eac/2021.05.11%20KA1%20mobilities%20eligible%20finalised%20started%20in%202016.csv?inline=false"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:23.269813Z</prov:generatedAtTime>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568507Z</prov:generatedAtTime>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#rightsAvailability"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568491Z</prov:generatedAtTime>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >false</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement rdf:nodeID="A29">
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >true</dqv:value>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/osi#isOpen"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568804Z</prov:generatedAtTime>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                    <dqv:hasQualityMeasurement>
+                      <dqv:QualityMeasurement>
+                        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateIssuedAvailability"/>
+                        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                        >2022-04-04T00:28:22.568482Z</prov:generatedAtTime>
+                        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+                        >false</dqv:value>
+                      </dqv:QualityMeasurement>
+                    </dqv:hasQualityMeasurement>
+                  </rdf:Description>
+                </shacl:focusNode>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#LanguageRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/language/ENG&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A26"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/CSV&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:parseType="Resource">
+                </shacl:sourceShape>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/accrualPeriodicity"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FrequencyRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/frequency/ANNUAL&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/FRA"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/FRA&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#MinCountConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+                <shacl:resultMessage>minCount[1]: Invalid cardinality: expected min 1: Got count = 0</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+                <shacl:sourceShape rdf:nodeID="A23"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#DataThemeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/data-theme/EDUC&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/dcat#theme"/>
+                <shacl:sourceShape rdf:nodeID="A25"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/ESP&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/ESP"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/a07fcaf5-9e20-4699-9c81-409ca2ca95f0"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/SWE"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/SWE&gt;</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/GRC"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/GRC&gt;</shacl:resultMessage>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/CYP&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/CYP"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#ClassConstraintComponent"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:parseType="Resource">
+                </shacl:sourceShape>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/dcat#landingPage"/>
+                <shacl:resultMessage>ClassConstraint[&lt;http://xmlns.com/foaf/0.1/Document&gt;]: Expected class :&lt;http://xmlns.com/foaf/0.1/Document&gt; for &lt;http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/CZE&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/CZE"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:parseType="Resource">
+                </shacl:sourceShape>
+                <shacl:focusNode rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/EAC"/>
+                <shacl:resultPath rdf:resource="http://xmlns.com/foaf/0.1/name"/>
+                <shacl:resultMessage>minCount[1]: Invalid cardinality: expected min 1: Got count = 0</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#MinCountConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/ROU"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/ROU&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/LUX"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/LUX&gt;</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/041cd340-bbc1-40d3-8f74-82e9075b6e00"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/CSV&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/CSV&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/6aa0fb6e-5d2f-40d8-8e1f-b548b5d7e9ce"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/BGR&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/BGR"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/DEU&gt;</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/DEU"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/CSV&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/GBR"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/GBR&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/SVN"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/SVN&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/DNK"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/DNK&gt;</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultMessage>minCount[1]: Invalid cardinality: expected min 1: Got count = 0</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A23"/>
+                <shacl:focusNode rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#MinCountConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:parseType="Resource">
+                </shacl:sourceShape>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#LanguageRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/language/ENG&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/language"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/PRT"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/PRT&gt;</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A26"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#LanguageRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/language/ENG&gt;</shacl:resultMessage>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/language"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/ed730f07-2134-4486-a475-628195431b8a"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/HRV"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/HRV&gt;</shacl:resultMessage>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/4512d089-8f25-48a6-8d6f-c5da7bf5dbf1"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/cb3f1e8a-c1bd-48f2-9cc4-05aba1b02514"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#FileTypeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/file-type/CSV&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A24"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/format"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/dcat#theme"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#DataThemeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/data-theme/GOVE&gt;</shacl:resultMessage>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:sourceShape rdf:nodeID="A25"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceShape rdf:nodeID="A25"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/dcat#theme"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#DataThemeRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/data-theme/SOCI&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:conforms rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+            >false</shacl:conforms>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultMessage>minCount[1]: Invalid cardinality: expected min 1: Got count = 0</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+                <shacl:sourceShape rdf:nodeID="A23"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#MinCountConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/IRL"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/IRL&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/SVK&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/SVK"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/FIN&gt;</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/NLD"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/NLD&gt;</shacl:resultMessage>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/country/AUT"/>
+                <shacl:resultMessage>Node[_:b0] at focusNode &lt;http://publications.europa.eu/resource/authority/country/AUT&gt;</shacl:resultMessage>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:nodeID="A21"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/spatial"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultPath rdf:resource="http://purl.org/dc/terms/publisher"/>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#CorporateBodyRestriction&gt;] at focusNode &lt;http://publications.europa.eu/resource/authority/corporate-body/EAC&gt;</shacl:resultMessage>
+                <shacl:value rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/EAC"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+                <shacl:sourceShape rdf:parseType="Resource">
+                </shacl:sourceShape>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Warning"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+            <shacl:result>
+              <shacl:ValidationResult>
+                <shacl:resultMessage>Node[&lt;http://data.europa.eu/r5r#StatusRestriction&gt;] at focusNode &lt;http://purl.org/adms/status/Completed&gt;</shacl:resultMessage>
+                <shacl:sourceShape rdf:nodeID="A22"/>
+                <shacl:focusNode rdf:resource="http://data.europa.eu/88u/distribution/79fc7a5f-5357-4075-9267-59a7ee8ea7bb"/>
+                <shacl:resultPath rdf:resource="http://www.w3.org/ns/adms#status"/>
+                <shacl:sourceConstraintComponent rdf:resource="http://www.w3.org/ns/shacl#NodeConstraintComponent"/>
+                <shacl:resultSeverity rdf:resource="http://www.w3.org/ns/shacl#Violation"/>
+                <shacl:value rdf:resource="http://purl.org/adms/status/Completed"/>
+              </shacl:ValidationResult>
+            </shacl:result>
+          </shacl:ValidationReport>
+        </oa:hasBody>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.328801Z</prov:generatedAtTime>
+        <oa:hasTarget rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#describing"/>
+        <dqv:inDimension rdf:resource="https://piveau.eu/ns/voc#interoperability"/>
+        <dct:isVersionOf>dcatap201</dct:isVersionOf>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#threeStars"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+        <prov:wasDerivedFrom rdf:nodeID="A15"/>
+        <prov:wasDerivedFrom rdf:nodeID="A17"/>
+        <prov:wasDerivedFrom rdf:nodeID="A16"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#publisherAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561489Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561444Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#categoryAvailability"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#keywordAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561478Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#contactPointAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561453Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >70</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:24.379477Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#findabilityScoring"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#interoperabilityScoring"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:24.379434Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >80</dqv:value>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#spatialAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561499Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessRightsAvailability"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561413Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#threeStars"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+        <prov:wasDerivedFrom rdf:nodeID="A1"/>
+        <prov:wasDerivedFrom rdf:nodeID="A2"/>
+        <prov:wasDerivedFrom rdf:nodeID="A0"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dcatApCompliance"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.568850Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561603Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#dateModifiedAvailability"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</dqv:value>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+        <prov:wasDerivedFrom rdf:nodeID="A14"/>
+        <prov:wasDerivedFrom rdf:nodeID="A13"/>
+        <prov:wasDerivedFrom rdf:nodeID="A12"/>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#twoStars"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#threeStars"/>
+        <prov:wasDerivedFrom rdf:nodeID="A4"/>
+        <prov:wasDerivedFrom rdf:nodeID="A5"/>
+        <prov:wasDerivedFrom rdf:nodeID="A3"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityMetadata>
+      <dqv:QualityMetadata rdf:about="http://data.europa.eu/88u/metrics/erasmus-mobility-statistics-2014-2019-v2">
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.328430Z</prov:generatedAtTime>
+        <dct:type rdf:resource="https://europeandataportal.eu/voc#MetricsLatest"/>
+      </dqv:QualityMetadata>
+    </dqv:hasQualityMetadata>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:24.379521Z</prov:generatedAtTime>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >330</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#scoring"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <prov:wasDerivedFrom rdf:nodeID="A8"/>
+        <prov:wasDerivedFrom rdf:nodeID="A7"/>
+        <prov:wasDerivedFrom rdf:nodeID="A6"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#threeStars"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >75</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#reusabilityScoring"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:24.379491Z</prov:generatedAtTime>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#threeStars"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+        <prov:wasDerivedFrom rdf:nodeID="A9"/>
+        <prov:wasDerivedFrom rdf:nodeID="A10"/>
+        <prov:wasDerivedFrom rdf:nodeID="A11"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityAnnotation>
+      <dqv:QualityAnnotation>
+        <prov:wasDerivedFrom rdf:nodeID="A28"/>
+        <prov:wasDerivedFrom rdf:nodeID="A29"/>
+        <prov:wasDerivedFrom rdf:nodeID="A27"/>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+        <oa:hasBody rdf:resource="https://piveau.eu/ns/voc#threeStars"/>
+      </dqv:QualityAnnotation>
+    </dqv:hasQualityAnnotation>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >100</dqv:value>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:24.379507Z</prov:generatedAtTime>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessibilityScoring"/>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+    <dqv:hasQualityMeasurement>
+      <dqv:QualityMeasurement>
+        <dqv:computedOn rdf:resource="http://data.europa.eu/88u/dataset/erasmus-mobility-statistics-2014-2019-v2"/>
+        <dqv:value rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</dqv:value>
+        <dqv:isMeasurementOf rdf:resource="https://piveau.eu/ns/voc#accessRightsVocabularyAlignment"/>
+        <prov:generatedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-04T00:28:22.561436Z</prov:generatedAtTime>
+      </dqv:QualityMeasurement>
+    </dqv:hasQualityMeasurement>
+  </rdf:Description>
+</rdf:RDF>
