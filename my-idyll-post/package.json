@@ -16,6 +16,10 @@
     "idyll-vega-lite": "^3.0.1"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "patch-package": "^6.4.7"
+  },
+  "scripts": {
+    "postinstall": "patch-package"
   }
 }

@@ -136,7 +136,7 @@ class CollisionGraph extends D3Component {
           .force("cluster", forceCluster())
           .force("collide", forceCollide());
 
-        var svg = d3.select(node).append("svg");
+        var svg = (this.svg = d3.select(node).append("svg"));
         svg.attr("width", width);
         svg.attr("height", height);
 
@@ -192,18 +192,18 @@ class CollisionGraph extends D3Component {
           d3.select(this)
             .transition()
             .attr("r", (d) => d.r * 2);
-          //switchRadius(300, i);
+          // switchRadius(300, i);
         }
 
         // invalidation.then(() => simulation.stop());
 
-        console.log(svg.node());
+        console.log('...'+svg.node());
         return svg.node();
       };
 
-    // var res = chart();
-    // console.log(res);
-    // return res;
+    var res = chart();
+    console.log(res);
+    return res;
   }
 }
 
