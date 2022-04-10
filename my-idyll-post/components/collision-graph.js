@@ -1,5 +1,11 @@
-const d3 = require("d3", "d3-array@2");
 const D3Component = require("idyll-d3-component");
+const d3 = Object.assign(
+  {},
+  require("d3"),
+  require("d3-transition"),
+  require("d3-selection"),
+  require("d3", "d3-array@2")
+);
 
 class CollisionGraph extends D3Component {
   initialize(node, props) {
@@ -52,10 +58,14 @@ class CollisionGraph extends D3Component {
         let nodes;
 
         function force(alpha) {
-          const centroids = d3.rollup(nodes, centroid, (d) => d.data.group);
+          const centroids = d3.rollup(
+            nodes,
+            centroid,
+            (d) => d.data["Country Code Cat"]
+          );
           const l = alpha * strength;
           for (const d of nodes) {
-            const { x: cx, y: cy } = centroids.get(d.data.group);
+            const { x: cx, y: cy } = centroids.get(d.data["Country Code Cat"]);
             d.vx -= (d.x - cx) * l;
             d.vy -= (d.y - cy) * l;
           }
@@ -91,7 +101,7 @@ class CollisionGraph extends D3Component {
                     const r =
                       d.r +
                       q.data.r +
-                      (d.data.group === q.data.data.group
+                      (d.data["Country Code Cat"] === q.data.data.group
                         ? padding1
                         : padding2);
                     let x = d.x - q.data.x,
@@ -115,17 +125,15 @@ class CollisionGraph extends D3Component {
 
         return force;
       },
-      height = 600,
+      height = 700,
       m = 10,
       n = 200,
       pack = () =>
         d3.pack().size([width, height]).padding(1)(
-          d3.hierarchy(data).sum((d) => d.value)
+          d3.hierarchy(data).sum((d) => d.Count)
         ),
-      width = 700,
+      width = 400,
       chart = () => {
-        // replay;
-
         const nodes = pack().leaves();
 
         const simulation = d3
@@ -136,7 +144,7 @@ class CollisionGraph extends D3Component {
           .force("cluster", forceCluster())
           .force("collide", forceCollide());
 
-        var svg = (this.svg = d3.select(node).append("svg"));
+        var svg = d3.create("svg");
         svg.attr("width", width);
         svg.attr("height", height);
 
@@ -147,7 +155,7 @@ class CollisionGraph extends D3Component {
           .join("circle")
           .attr("cx", (d) => d.x)
           .attr("cy", (d) => d.y)
-          .attr("fill", (d) => odss[d.data.text].color)
+          .attr("fill", color)
           .call(drag(simulation))
           .on("click", (d, i) => switchRadius(400, i)());
 
@@ -195,15 +203,10 @@ class CollisionGraph extends D3Component {
           // switchRadius(300, i);
         }
 
-        // invalidation.then(() => simulation.stop());
-
-        console.log('...'+svg.node());
         return svg.node();
       };
-
-    var res = chart();
-    console.log(res);
-    return res;
+    console.log(chart());
+    return chart();
   }
 }
 

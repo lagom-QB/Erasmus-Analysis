@@ -4,7 +4,8 @@ const d3 = Object.assign(
   {},
   require('d3'),
   require('d3-transition'),
-  require('d3-selection')
+  require('d3-selection'),
+  require("d3", "d3-array@2")
 );
 
 const size = 600;

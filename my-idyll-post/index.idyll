@@ -56,13 +56,14 @@
 
   [Step]
     ## Where are people traveling to?
+    [em]Sample data containing *Receiving Country Code* , *Receiving City* , *Count Of Participants going to that destination* and *Categorical Country Code* ... [/em]
     
     [data name:"erasmusData" source:"destination.csv" /] 
     [Table data:`erasmusData.slice(0,20).sort()` defaultPageSize:5 theme:"material" /]
     
-    [Fixed ]
-      [CollisionGraph value:`erasmusData.slice(0,20).sort()` /]
-    [/Fixed]
+    [Aside]
+      [CollisionGraph value:`erasmusData.slice(0,40).sort()` /]
+    [/Aside]
 
   [/Step]
 

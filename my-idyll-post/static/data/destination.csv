@@ -1,2353 +1,2353 @@
-Receiving Country Code,Receiving City,Count
-UK,london,3241
-DE,berlin,3149
-HU,budapest,2272
-IE,dublin,2201
-FR,paris,2080
-EE,tallinn,1603
-SI,ljubljana,1574
-FR,strasbourg,1456
-DE,hagen,1431
-ES,valencia,1304
-LU,luxembourg,1263
-LV,riga,1195
-HR,zagreb,1144
-LT,vilnius,1124
-DE,bremen,1058
-IT,roma,1025
-BG,sofia,1006
-DE,stuttgart,995
-TR,ankara,973
-CY,nicosia,957
-CZ,praha,938
-PL,warszawa,928
-ES,madrid,927
-DE,aachen,907
-FI,helsinki,899
-PL,lublin,880
-UK,belfast,856
-CZ,brno,805
-SK,trenčín,793
-PL,lodz,769
-AT,wien,758
-NO,oslo,752
-EL,thessaloniki,741
-PL,kielce,698
-PL,cz�stochowa,695
-ES,oviedo,682
-DE,hannover,671
-TR,istanbul,642
-RO,bucuresti,635
-BE,bruxelles,618
-FR,montpellier,612
-MK,skopje,610
-UK,st helens,607
-FR,bordeaux,604
-EL,athens,604
-MT,st venera,603
-NL,utrecht,597
-RO,ramnicu sarat,597
-IS,reykjavík,597
-LT,kaunas,596
-UK,cardiff,594
-PT,cascais,587
-UK,manchester,583
-SK,bratislava,563
-MT,msida,544
-PL,gdansk,534
-BE,brussel,513
-TR,izmir,495
-LV,gulbene,494
-RO,bacau,486
-TR,i̇stanbul,478
-DE,m�nchen,477
-IT,torino,466
-DE,esslingen,460
-PL,rawa mazowiecka,448
-HR,osijek,446
-UK,huddersfield,444
-PL,wroc�aw,438
-SK,žilina,429
-FR,rennes,423
-IT,rome,419
-SK,trencin,417
-DE,berlin - prenzlauer berg,415
-TR,bursa,408
-UK,birmingham,394
-ES,granada,393
-BE,schaarbeek,391
-TR,i̇zmir,386
-UK,leeds,381
-SE,stockholm,374
-RO,cluj-napoca,370
-IT,lecce,366
-NL,den haag,362
-PT,porto,361
-TR,konya,357
-CY,limassol,355
-HR,rijeka,352
-CZ,jindřichův hradec,350
-DE,magdeburg,346
-NL,rotterdam,339
-HU,b�k�s,332
-FR,rouvroy-les-merles,331
-RO,timisoara,330
-MK,prilep,320
-PL,starachowice,318
-UK,ashford,313
-SI,maribor,301
-BE,brussels,296
-DK,k�benhavn k,293
-AT,salzburg,293
-PT,faro,291
-ES,zaragoza,290
-FR,metz,289
-HR,vukovar,285
-EE,tartu,283
-RO,bucharest,281
-CY,lefkosia,280
-DK,k?benhavn n,279
-PL,"oksywie, gdynia",276
-CZ,liberec,273
-DE,k?lleda,270
-LV,tor?akalns,269
-NL,amsterdam,263
-FR,lille,263
-ES,torrent,263
-UK,edinburgh,260
-FR,vandoeuvre,259
-FI,tampere,257
-FR,reims,256
-LV,sigulda,254
-MK,struga,252
-HR,samobor,250
-UK,liverpool,247
-AT,linz,247
-PL,gdańsk,244
-CZ,chomutov,241
-ES,alicante,240
-PL,gliwice,240
-PT,p�voa de varzim,239
-CZ,zlín,237
-ES,barcelona,235
-CY,larnaca,234
-DE,marienwerder,232
-CZ,ostrava,231
-RO,craiova,230
-HR,sisak,229
-PT,viseu,226
-LV,republikas laukums,226
-IT,salerno,224
-IT,macerata,223
-LV,daugavpils,220
-RO,slanic moldova,219
-PT,almada - caparica,218
-HU,pécsvárad,217
-DE,greiz,214
-RO,dr. tr. severin,214
-HU,bag,214
-DE,koln,213
-IT,sarezzo,212
-CZ,horní maršov,212
-PL,katowice,207
-PT,portim�o,207
-HR,zadar,206
-TR,adana,204
-FR,cenon,204
-FR,nantes,201
-SK,trnava,201
-PT,vila nova de famalicao,200
-UK,newcastle,199
-DE,weissach im tal,197
-AT,hallein,196
-UK,omagh tyrone,195
-DE,verden,195
-LV,lielvārde,195
-PL,krak�w,192
-CZ,plzeň,189
-HU,dány,188
-FR,thionville,187
-LT,kretinga,187
-LT,trakai,185
-RO,bistrita,183
-BG,пловдив,182
-SI,velenje,182
-BG,blagoevgrad,181
-RO,isverna,181
-BG,plovdiv,179
-RO,poiana brasov,179
-BG,omurtag,178
-AT,graz,177
-BG,варна,175
-UK,barnsley,175
-ES,segovia,173
-UK,doncaster,172
-EE,viljandi,172
-CZ,praha 10,170
-HU,levél,170
-FR,epinal,170
-PL,sieradz,169
-IT,ancona,169
-TR,antalya,169
-LV,ziepniekkalns,169
-HU,salgótarján,168
-PL,łódź,165
-PL,??d?,164
-PT,funchal,164
-PT,lisboa,163
-ES,m�rida,161
-PL,warsaw,160
-DE,backnang,160
-UK,bristol,160
-HR,belec,160
-UK,york,158
-FI,jyv�skyl�,158
-ES,jerez de la frontera,156
-IT,catania,155
-IS,selfoss,154
-DE,fleeth,154
-RO,baile herculane,154
-UK,aberdeen,153
-DE,münchenbernsdorf,153
-PL,sosnowiec,153
-LT,alytus,153
-HU,eger,152
-DE,rhauderfehn,151
-EE,narva,147
-HR,split,147
-CZ,české budějovice,147
-ES,val�ncia,147
-LV,saldus,146
-MT,valletta,145
-FR,marseille,145
-TR,kızılay çankaya/ankara,145
-FR,amiens,144
-HU,zalaszentgrot,144
-PT,palmela,144
-PL,pozna�,143
-LU,mersch,143
-MK,bitola,142
-UK,derby,141
-PL,chorzów,141
-RO,drobeta turnu severin,141
-IT,napoli,141
-IT,messina,141
-CZ,prague 1,140
-MT,zejtun,140
-SI,celje,139
-FR,lyon,139
-IT,galatone,139
-LV,cesis,138
-LT,tauragė,137
-LT,marijampolė,137
-DK,kolding,136
-UK,preston,136
-ES,vitoria-gasteiz,135
-RO,baia mare,135
-ES,c�ceres,135
-BG,vidin,134
-LT,plungės m. plungės raj.,134
-DE,iserlohn,134
-HU,szeged,133
-TR,mardin,133
-SK,banská bystrica,133
-ES,valladolid,133
-ES,sevilla,132
-SE,boden,131
-AT,innsbruck,131
-ES,salamanca,130
-UK,glasgow,130
-TR,van,130
-SK,nitra,129
-FR,besançon,129
-FI,lahti,128
-ES,alhama de granada,128
-ES,le�n,127
-ES,palencia,127
-LT,utena,127
-TR,balikesir,127
-PL,opole,125
-ES,mislata,125
-PT,olhao,124
-SI,novo mesto,123
-DK,roskilde,123
-LI,vaduz,123
-RO,balan,123
-ES,burgos,122
-FR,montreuil,122
-DE,erfurt,121
-SE,lund,120
-DE,wittenberg,120
-NL,vlijmen,120
-HU,debrecen,118
-FR,62 aire sur la lys,118
-HU,nyíregyháza,117
-HR,pregrada,117
-FR,55220 - benoite vaux,117
-BG,смолян,117
-PT,coimbra,117
-LV,ogre,116
-HU,miskolc,116
-ES,numancia de la sagra,116
-HU,kom�rom,115
-CZ,prague 6,115
-IT,padova,115
-PL,krakow,114
-UK,bransgore,114
-PL,zakopane,113
-TR,diyarbakir,113
-ES,torrellas,113
-BE,kelmis,113
-FR,annonay,112
-BE,gent,112
-TR,edirne,111
-CZ,louny,111
-NL,the hague,111
-SE,hallsberg,108
-FR,sevrier,108
-EE,kuressaare,107
-HU,veszprém,107
-AT,aggsbach dorf,106
-HU,budaörs,106
-BG,������,106
-SK,sihelné,106
-PL,m. kielce,106
-HU,lajosmizse,106
-RO,ploiesti,105
-ES,santander,105
-TR,eskişehir,105
-FI,jyväskylä,104
-UK,exeter,104
-LT,vilkaviškis,103
-ES,almer?a,103
-SK,žaškov,103
-EE,haapsalu,102
-DE,fellbach,102
-SK,zvolen,102
-TR,tekirdağ,102
-CZ,blansko,101
-PL,niemodlin,101
-UK,heckmondwike,101
-TR,gaziantep,101
-SK,cadca,101
-PT,chaves,101
-DE,eschwege,100
-UK,rotherham,100
-PT,estarreja,100
-DE,dortmund,100
-TR,elazığ,99
-SK,ziar nad hronom,99
-EE,rakvere,99
-PL,��d�,99
-ES,mollina,99
-BG,златоград,99
-DE,augsburg,99
-RO,iasi,99
-ES,manises,98
-PL,be?chat?w,98
-LV,liepaja,98
-NO,utøya,98
-BG,кърджали,98
-ES,bilbao,97
-CZ,litoměřice,97
-SK,prievidza,97
-UK,swindon,97
-UK,dungannon,96
-IT,palermo,96
-CZ,jindrichuv hradec,96
-MT,hamrun,96
-DK,aalborg,96
-LT,kalvarija,95
-TR,eski�ehir,95
-EL,heraklion,94
-LT,raseiniai,94
-FR,aubagne,93
-AT,klagenfurt,93
-ES,huesca,93
-PT,lamego,93
-LT,jašiūnai,92
-EL,athina,92
-RO,valea mare,92
-EE,paide,92
-PT,amora,92
-IT,campofelice di roccella (pa),91
-SK,podhradie,91
-CZ,olomouc,91
-HU,magyaralmás,91
-SK,košice,91
-RO,sibiu,90
-DE,weimar,90
-HR,pula,89
-ES,moguer,88
-AT,velden/w?rthersee,87
-AT,st. pölten,87
-SI,slovenske konjice,86
-NL,stadskanaal,86
-PL,kwidzyn,85
-DE,"mitte, berlin",85
-AT,kufstein,85
-FR,01340 foissiat,85
-DE,weida,84
-ES,donostia san sebastian,84
-PL,czestochowa,84
-BG,burgas,84
-BE,br�ssel,84
-NO,drammen,83
-FR,"saint-loup-sur-aujon,52450",83
-LV,"priekulu novads, priekuli",83
-TR,merkez,83
-BE,banneux sprimont,82
-PL,gda�sk,82
-DE,koblenz,82
-PL,bytom,81
-TR,eskisehir,81
-RO,costinesti,81
-FR,giel-courteilles (61),81
-LV,liepāja,81
-LT,kėdainiai,81
-SK,kežmarok,80
-BE,leuven,80
-PL,kraków,80
-BG,с. чифлик,80
-NO,lillehammer,80
-ES,gij�n,80
-FR,samonac,79
-PL,brenna,79
-LU,dudelange,79
-LT,birštonas,79
-DE,bonn,79
-ES,santa cruz de tenerife,79
-PL,piotrk�w trybunalski,79
-DE,essen,78
-NO,voss,78
-LT,marijampole,78
-SK,zázrivá,78
-HU,kecskemét,77
-ES,toledo,77
-IS,borgarnes,77
-BE,diest,77
-DE,hattingen,76
-DE,flensburg,76
-DE,nordhausen,76
-DE,"eiserbuder weg 12, 16348 marienwerder/ ot ruhlsdorf",76
-MT,sliema,76
-AT,tulln,76
-SI,ptuj,76
-AT,krems an der donau,76
-CZ,hradec králové,76
-TR,sanliurfa,75
-BG,vratsa,75
-BG,antonovo,75
-PL,starogard gdański,75
-SI,kanal,75
-FI,turku,75
-SI,slovenj gradec,74
-LT,šiauliai,74
-BE,kalmthout,74
-MK,shtip,74
-TR,erzurum,74
-MK,kavadarci,74
-ES,el padul,74
-IT,spoleto,73
-SE,ystad,73
-BE,st.-jans molenbeek,73
-ES,bormujos,73
-SE,ume�,73
-SK,prešov,73
-MT,birkirkara,73
-DE,marl,73
-IT,bologna,73
-FR,béziers,72
-BE,mechelen,72
-DE,bochum,72
-UK,brighton,72
-FR,10000 troyes,72
-SE,borlänge,72
-UK,taunton,72
-BE,eupen,72
-EE,v�ru,72
-LT,klaipėda,72
-PT,albufeira,71
-RO,cluj,71
-PL,leszno,71
-FR,toulouse,71
-CZ,jihlava,71
-PL,swinoujscie,71
-PT,agualva - cacém,71
-ES,almonte,71
-RO,suceava,71
-FR,neuilly,71
-IT,taormina,71
-AT,bregenz,71
-ES,santa comba,70
-UK,hull,70
-DE,16348 marienwerder,70
-HU,székesfehérvár,70
-PL,poznan,70
-UK,bentley,69
-UK,harrow,69
-IT,ascoli piceno,69
-RO,sascut,69
-HU,szolnok,69
-PL,�yrard�w,68
-ES,torrellas (zaragoza),68
-BG,�����,68
-SK,dubové,68
-RO,onesti,68
-LV,madona,68
-PL,zgierz,68
-LT,panevėžys,68
-FR,dax,68
-EL,αθηνα,68
-BG,кирково,68
-SK,spišský štvrtok,68
-PT,melga�o,67
-SK,spišská nová ves,67
-SK,spišské tomášovce,67
-AT,horn,67
-RO,comanesti,67
-ES,lugo,67
-SI,�kofja loka,67
-DK,copenhagen k,67
-PL,chorz�w,67
-UK,sheffield,67
-HU,győr,67
-DE,bleicherode,66
-TR,�stanbul,66
-ES,las rozas de madrid,66
-HU,cegléd,66
-BE,borsbeek,66
-RO,"comuna simian, sat simian",65
-IE,galway,65
-DE,"eiserbuder weg 12, 16348 marienwerder",65
-FR,cassen,65
-SK,dolný bar,65
-NL,'s-gravenhage,65
-ES,santa cruz de la palma,64
-LT,jonava,64
-FR,chainaz-les-frasses,64
-SK,pezinok,64
-UK,bridgend,64
-SK,ružomberok,64
-DK,humlebaek,64
-BE,overijse,64
-DK,dragoer,64
-DE,passau,63
-IT,fermo,63
-HU,törökbálint,63
-EE,j�hvi,63
-EL,larissa,63
-LT,anykščiai,63
-ES,ciudad real,63
-BG,софия,63
-CY,paphos,63
-PL,wroclaw,63
-HU,budakeszi,63
-IT,firenze,62
-ES,amposta,62
-ES,soria,62
-SK,bardejov,62
-BG,varna,62
-PT,tavira,62
-PL,piotrk?w trybunalski,61
-FR,saint martin en haut (69),61
-BE,kortrijk,61
-PL,tarn�w,61
-PL,b�dzin,61
-SI,nova gorica,61
-UK,wallsend,61
-LT,visaginas,61
-IT,ventotene,60
-LT,šalčininkai,60
-SE,borås,60
-FI,suonenjoki,60
-RO,brasov,60
-SK,tren??n,60
-DE,leipzig,60
-ES,elda,60
-FR,terrou,60
-HU,komárom,60
-BG,���� ����,59
-BE,ham,59
-LT,rūdiškės,59
-ES,las palmas de gran canaria,59
-NL,schiedam,59
-BE,anderlecht,59
-UK,newry,59
-DE,hamburg,58
-LV,amatas novads,58
-HU,salg�tarj�n,58
-DE,ellrich,58
-SI,zagorje ob savi,58
-ES,almassora,58
-LT,daugirdiškės,58
-DE,konstanz,58
-FR,fossoy,58
-PL,poznań,58
-LV,kuld?ga,57
-IT,potenza,57
-IT,pescara,57
-RO,azuga,57
-RO,timișoara,57
-IT,cagliari,57
-UK,wakefield,57
-SK,myjava,57
-ES,mohernando,57
-FR,bourg en bresse,57
-DE,wernigerode,57
-NL,amersfoort,57
-DE,blankenburg,57
-DE,dessau-ro�lau,57
-ES,puig,56
-ES,naron a coruna,56
-ES,ceuta,56
-HU,heviz,56
-HU,b�kkszentkereszt,56
-TR,malatya,56
-BG,montana,56
-AT,judenburg,56
-ES,villaviciosa,56
-DE,gommern,56
-EL,alexandroupolis,56
-ES,"candas, asturias",56
-FR,le mans,56
-LU,schengen,56
-HU,�rhida,56
-PL,regimin,55
-FR,bois le roi,55
-HU,gyomaendrőd,55
-TR,battalgazi/ malatya,55
-SK,sečovce,55
-HR,otočac,55
-HU,kaposvár,55
-SE,malmo,55
-PL,bia�ystok,55
-CZ,kladno,55
-IT,roccalumera,55
-EE,t�ri,55
-TR,usak,54
-IT,pesaro,54
-ES,palma de mallorca,54
-TR,kocaeli,54
-DE,br?ssel,54
-SK,jarovnice,53
-IT,villafranca tirrena,53
-DE,ludwigsburg,53
-ES,armilla,53
-SE,uppsala,53
-ES,vilar de santos (ourense),53
-IT,ciampino,53
-UK,"bransgore, uk",53
-ES,peligros,53
-BG,pernik,52
-NO,kristiansand,52
-DE,merseburg,52
-FR,cluny,52
-BG,bansko,52
-BE,wichelen,52
-TR,alanya,52
-PL,j?drzej?w,52
-MT,attard,52
-CZ,frýdlant v čechách,52
-FR,arrent�s-de-corcieux,52
-RO,b?ile homorod,51
-PL,jastrz�bie-zdr�j,51
-RO,alba iulia,51
-UK,leicester,51
-FR,saint quentin,51
-FR,mulhouse,51
-TR,çorum,51
-HU,szombathely,51
-BE,belgrade,51
-FR,bagnères-de-bigorre,51
-AT,vienna,51
-ES,m�laga,51
-SK,martin,50
-DE,reinwarzhofen,50
-SK,krupina,50
-BG,kyustendil,50
-PL,malbork,50
-LT,šilalė,50
-BE,sint-joost-ten-noode,50
-FR,clermont ferrand,50
-ES,alborache,50
-RO,alesd,50
-EE,tapa,50
-HR,beli manastir,50
-IT,roccacasale,50
-AT,st. kanzian,49
-LV,"rembate, ķeguma novads",49
-FR,pierre la treiche,49
-SK,brezno,49
-PL,k�dzierzyn-ko�le,49
-ES,murcia,49
-IT,valdagno,49
-PL,miko��w,49
-TR,kutahya merkez,49
-DK,vordingborg,49
-BE,andenne,49
-BE,ingelmunster,49
-UK,swansea,49
-PT,vila nova de gaia,49
-IE,dublin 1,49
-FR,clergoux,48
-ES,palma del r�o,48
-DE,aschersleben,48
-DE,auma-weidatal,48
-CZ,jablonec nad nisou,48
-DE,bitterfeld,48
-ES,lorca,47
-IT,senigallia,47
-UK,chelmsford,47
-DE,berlin - kreuzberg,47
-DE,g�strow,47
-BE,evere,47
-HR,karlovac,47
-UK,conisbrough,47
-UK,sheffiled,47
-LT,radviliškis,47
-EL,chios,47
-IS,bifröst,47
-DK,s�nderborg,47
-IT,santorso,47
-BE,aarschot,47
-HR,varazdin,47
-AT,sankt marien,47
-LT,kupiškis,47
-PL,toru�,47
-PL,august�w,46
-CZ,opava,46
-TR,afyonkarahisar,46
-UK,merthyr tydfil,46
-PL,sukow,46
-TR,şişli,46
-DK,herning,46
-HU,kiskunhalas,46
-AT,niederneukirchen,46
-HR,"vela luka, kor�ula",46
-EE,p�rnu,46
-IT,celano,46
-MT,floriana,45
-BE,roeselare,45
-EL,nafplion,45
-BE,ninove,45
-PL,słupsk,45
-TR,i̇zmi̇r,45
-UK,wembley,45
-IT,schio vi,45
-ES,gines,45
-SK,terchová,45
-RO,predeal,45
-FR,saint helen,45
-NO,sarpsborg,45
-HR,zabok,45
-TR,manisa,45
-SE,solna,44
-FR,01000 bourg en bresse,44
-SI,galicija pri ?alcu,44
-PL,piotrków trybunalski,44
-ES,guijo de granadilla,44
-CZ,třeboň,44
-FI,espoo,44
-DE,berlin-wedding,44
-FR,saxon-sion,44
-PL,rybnik,44
-TR,artvin,44
-ES,alcoy,44
-DE,gudersleben,44
-DE,halle (saale),44
-HU,békéscsaba,43
-EE,merem�e k�la,43
-ES,marmolejo,43
-IS,reykjavik,43
-AT,klagenfurt am wörthersee,43
-EE,sillamäe,43
-PL,bełchatów,43
-MK,strumica,43
-SK,tren�ianske teplice,43
-UK,plymouth,43
-HU,szekszárd,43
-FR,treffort-cuisiat - 01,43
-FR,poitiers,43
-PL,s�awk�w,42
-RO,buhusi,42
-RO,slănic moldova,42
-MK,stip,42
-BG,karlovo,42
-NL,nijmegen,42
-FR,montbrison (42),42
-DE,flecken-zechlin,42
-CZ,kutná hora,42
-HU,balatonbogl�r,42
-RO,cluj napoca,42
-BE,tielt,42
-NL,zwolle,42
-SE,malmö,42
-LT,biržai,42
-BE,lille,42
-LT,rokiškis,42
-EE,tabivere,42
-IS,grindavík,42
-UK,"bransgore, hampshire",42
-DK,valby,42
-AT,furth bei göttweig,42
-PL,dlugosiodlo,41
-IT,latina,41
-BE,beernem,41
-PL,wejherowo,41
-LT,švenčionys,41
-AT,hirtenberg,41
-IE,letterkenny,41
-BG,ардино,41
-BG,sliven,41
-FR,batz sur mer,41
-DE,wolmirstedt,41
-BG,драгоман,40
-HU,felsőtárkány,40
-SK,levice,40
-PL,jedrzejow,40
-LV,vecpiebalgas novads,40
-CZ,ceske budejovice,40
-IT,grassano,40
-FR,vidaillat - 23250,40
-PT,vila do conde,40
-FI,pori,40
-ES,malaga,40
-HR,sveta nedelja,40
-HR,stubičke toplice,40
-LV,jaunpiebalgas novads,40
-RO,eselnita,40
-LT,nemėžis,40
-IE,cork,40
-DK,n�rresundby,40
-IE,an rinn,39
-LV,rauna,39
-RO,podu turcului,39
-FR,bédarieux,39
-ES,hondarribia,39
-IT,bari,39
-SI,sti�na,39
-DE,dusseldorf,39
-LV,dobele,39
-ES,antigua (fuerteventura),39
-SI,ajdov��ina,39
-IS,akureyri,39
-BE,lokeren,39
-IT,molfetta,39
-PT,4784-909 santo tirso,39
-BG,момчилград,39
-SE,umeå,39
-CZ,beroun,39
-SI,kranj,39
-RO,izvoru muresului,39
-PL,os?wek,39
-PT,santo tirso,39
-UK,wrexham,39
-FR,villereversure (01),38
-DE,reudnitz,38
-HU,páty,38
-PL,oborniki �l�skie,38
-PT,alter do chao,38
-PT,lisbon,38
-IT,matera,38
-IT,menaggio,38
-RO,horezu,38
-TR,ku�adas�,38
-ES,orihuela,38
-HU,hollókő,38
-CZ,tišnov,38
-ES,villaca�as,38
-UK,northallerton,38
-UK,scunthorpe,38
-ES,almagro,37
-MT,st. paul`s bay,37
-FR,grenoble,37
-BG,девин,37
-RO,targu jiu,37
-RO,bucarest,37
-CZ,ústí nad labem,37
-ES,gran canaria,37
-UK,amersham,37
-EE,kohila,37
-LV,līgatne,37
-UK,sefton,37
-PL,d�bica,37
-BG,варвара,37
-HU,zalabér,37
-MK,ohrid,37
-LT,telšiai,37
-IE,tullamore,37
-SK,hanušovce nad topľou,37
-SI,koper,36
-PL,chojnice,36
-RO,bacău,36
-FR,la-teste-de-buch,36
-PL,z�oty potok,36
-DE,heidelberg,36
-EE,pärnu,36
-DE,schwanebeck,36
-DK,copenhagen,36
-LT,plateliai,36
-SK,�adca,36
-TR,u?ak,36
-IT,pellezzano,36
-SI,lendava,36
-TR,kastamonu,36
-BE,antwerpen,36
-DE,heilbronn,36
-CZ,pardubice,36
-FR,sion,36
-TR,trabzon,36
-BE,erpe-mere,35
-CY,paralimni,35
-IT,santarcangelo di romagna,35
-BG,крумовград,35
-NL,oss,35
-LT,pakruojis,35
-ES,logrono,35
-NO,stavanger,35
-IT,alezio (lecce),35
-FR,dinan,35
-RO,piatra neamt,35
-ES,albacete,35
-HR,viškovo,35
-FR,nancy,35
-FR,pessac,35
-CZ,boskovice,35
-HR,vodice,35
-SI,murska sobota,35
-UK,treforest,35
-PL,czelad?,34
-BE,bruselas,34
-ES,badajoz,34
-DE,sche�litz,34
-PT,paredes de coura,34
-SK,zázriva,34
-UK,carlingford,34
-DE,ulm,34
-FR,azay-le-ferron (36290),34
-EE,vihasoo,34
-BG,veliko turnovo,34
-RO,dabuleni,34
-PL,jastrzebie-zdrój,34
-DE,ro�lau,34
-LV,stalbe,34
-FR,marcilly le chatel 42,34
-ES,a ba�a,34
-ES,donostia,34
-NL,middelburg,34
-EL,κομοτηνη,34
-CY,strovolos,33
-BG,панагюрище,33
-TR,düzce,33
-SK,�urany,33
-BG,чавдар,33
-HR,vrpolje,33
-MK,kumanovo,33
-BE,dendermonde,33
-DK,roenne,33
-SK,ru�omberok,33
-CZ,staré hamry,33
-CZ,hodonín,33
-HU,gyomaendr�d,33
-NO,molde,33
-TR,yozgat,33
-TR,çankaya,33
-RO,miercurea ciuc,33
-DE,flecken zechlin,33
-HU,tatabánya,33
-EE,ilmatsalu,33
-DK,r�nne,33
-BG,petrich,32
-FR,trouville,32
-EE,elva,32
-DE,feriendorf dorado brandenburg bei berlin eiserbuder weg 12  16348 marienwerder/ ot ruhlsdorf,32
-AT,kaprun,32
-ES,huetor vega,32
-AT,neumarkt,32
-ES,cullar vega,32
-IE,dublin 11,32
-EL,alexandroupoli,32
-SK,rimavská sobota,32
-EL,heraclion,32
-DE,mainz,32
-TR,şanlıurfa,32
-ES,tama,32
-PT,foz c�a,32
-SK,hronec,32
-HR,opatija,32
-PL,chorz?w,32
-BG,благоевград,32
-HU,p?cs,32
-DE,duderstadt,32
-PL,d?browa g?rnicza,32
-MK,gostivar,32
-RO,giurgita,32
-FR,limoges,32
-HU,orosháza,31
-DE,lindau,31
-NL,orvelte,31
-LT,kirkšnovė,31
-DE,ronneburg,31
-LV,prei?i,31
-ES,milladoiro � ames,31
-FR,fort-de-france,31
-FR,douai,31
-FR,saint-omer,31
-PL,dobromierz,31
-BG,етрополе,31
-FR,morlaix,31
-DE,karlsruhe,31
-BE,sint-katelijne-waver,31
-DE,t?bingen,31
-PL,mys?owice,31
-HU,nyiregyháza,31
-LV,valka,31
-PL,budy lucie�skie,31
-BG,царево,31
-SK,p�chov,31
-EE,?nkk?la,30
-TR,samsun,30
-PL,gda?sk,30
-HR,po�ega,30
-NO,rygge,30
-IT,torre del greco,30
-DE,unna,30
-BG,джебел,30
-LT,pabradė,30
-SK,bansk? bystrica,30
-FR,fresnes,30
-IT,reggio calabria,30
-MT,rabat,30
-DE,bergen auf ruegen,30
-RO,caracal,30
-LV,�ekava,30
-PL,tarnowskie g?ry,30
-PT,portim?o,30
-NL,alphen ad rijn,30
-RO,novaci,30
-IT,cornedo vicentino vi,30
-DE,laatzen,30
-DE,emden,30
-CZ,moravský krumlov,29
-PT,viana do castelo,29
-EE,mustvee,29
-SI,ljutomer,29
-LV,ludza,29
-PT,guarda,29
-CZ,prostějov,29
-ES,fuerteventura,29
-CZ,vyškov,29
-BE,temse,29
-ES,benidorm,29
-LI,ruggell,29
-SI,vojnik,29
-EL,aigio,29
-EE,tammispea,29
-FR,puylaurens,29
-EE,�nkk�la k�la,29
-LV,dagda,29
-AT,pottenstein,29
-TR,di̇yarbakir,28
-PL,krasne d�usko,28
-IT,mantova,28
-CZ,karlovy vary,28
-ES,fornillos de aliste,28
-IE,leenaun,28
-CZ,slavkov u brna,28
-RO,satu mare,28
-SK,vrútky,28
-FR,angers 49000,28
-DE,d�sseldorf,28
-ES,nava,28
-SI,kr�ko,28
-FR,evry centre essonne cedex,28
-HU,aba,28
-ES,puente genil,28
-CZ,mikulov,28
-PT,ponte de lima,28
-RO,roman,28
-SI,bohinj,28
-MK,gevgelija,28
-ES,purchena,28
-MK,tetovo,28
-PL,nowy s�cz,28
-ES,aguimes,28
-SK,ru?omberok,28
-FR,le passage d'agen,28
-CZ,povrly,28
-ES,quart de poblet,27
-BE,schoten,27
-LT,ignalina,27
-LV,k?rsava,27
-IE,dublin 2,27
-DE,kehl,27
-ES,teulada,27
-FR,gennevilliers,27
-CZ,kolín,27
-SK,svidnik,27
-EE,t�rva,27
-FR,verneuil-sur-seine,27
-PL,rzeszow,27
-EE,"padise, harjumaa",27
-IT,perugia,27
-ES,benicarl�,27
-BG,велико търново,27
-LT,pasvalys,27
-IT,nocera superiore,27
-AT,lustenau,27
-IT,varese,27
-TR,nevşehi̇r,27
-ES,la palma del condado,27
-IT,eboli (sa),27
-DE,berlin - wannsee,26
-CZ,znojmo,26
-IS,reykjav�k,26
-IT,brindisi,26
-IT,cassino,26
-PL,be�chat�w,26
-NL,ams,26
-HU,pusztavacs,26
-DE,straußberg,26
-ES,santiba�ez de la zarzaguda (burgos),26
-HR,bedekov�ina,26
-ES,colunga,26
-PL,prudnik,26
-RO,zalau,26
-SK,humenn�,26
-FR,argelès-gazost,26
-FR,aventignan,26
-PL,strzelno,26
-PL,turawa,26
-PL,lębork,26
-PL,zloty potok,26
-RO,constanța,26
-SK,mal� frankov�,26
-FR,b�nodet,26
-FR,riberac,26
-FR,corte,26
-SK,poprad,26
-DE,k�ln,26
-SE,alingsas,26
-SK,cífer,26
-SI,oplotnica,26
-UK,llangrannog,26
-DE,veckenstedt,26
-ES,poza de la sal (burgos),26
-ES,torremolinos,25
-DE,berlin - friedrichshain,25
-HR,konjščina,25
-DE,aspach,25
-LT,skuodas,25
-PL,wieszczyna,25
-RO,copalnic manastur,25
-PL,zielona gora,25
-IE,thurles,25
-HU,pannonhalma,25
-BE,essen,25
-HU,hollóháza,25
-PT,ericeira,25
-IT,orta nova,25
-DE,bad malente,25
-LT,akmenė,25
-ES,darro,25
-FR,locmin? - 56,25
-FR,67730 la vancelle,25
-FR,albi,25
-AT,tamsweg,25
-SK,humenne,25
-LT,molėtai,25
-LV,balvi,25
-SI,idrija,25
-CZ,český těšín,25
-HU,biatorbágy,25
-SI,hoče,25
-ES,padul,25
-LV,jelgava,25
-IT,taviano,25
-TR,i̇skenderun,25
-NO,arendal,25
-PL,olsztyn,25
-PL,ciechanów,25
-IT,genova,25
-HR,pirovac,25
-DE,duisburg,25
-LT,šakiai,25
-PT,vila nova de famalic�o e viana do castelo,25
-PL,k�obuck,25
-ES,valencia de alc�ntara,24
-SK,piešťany,24
-ES,elche,24
-SI,domžale,24
-ES,vega de espinareda (le�n),24
-SK,doln? smokovec,24
-SI,šentjur,24
-RO,odorheiu secuiesc,24
-RO,capreni,24
-BG,копривщица,24
-DE,bad boll,24
-UK,cheshunt,24
-HU,balatonboglár,24
-HR,sikirevci,24
-HR,oroslavje,24
-NO,marnardal,24
-DE,remscheid,24
-CY,agros,24
-HR,jesenje,24
-EE,sillam�e,24
-PL,baryslawice koscielne,24
-SK,turany,24
-NO,killingholmen,24
-FR,nice,24
-ES,cadiar,24
-SI,�rna na koro�kem,24
-SK,topo��any,24
-HU,domasz�k,24
-HU,f�lde�k,23
-LV,jaunpils,23
-DE,berlin - lichtenberg,23
-AT,salzburg stadt,23
-PL,cewice,23
-CZ,horka nad moravou,23
-PL,malczyce,23
-CZ,hranice v čechách,23
-CZ,kroměříž,23
-UK,nantymoel,23
-DE,berlin - grunewald,23
-NL,"st. peters, philipsburg",23
-DE,16818 gnewikow / neuruppin,23
-DE,berlin mitte,23
-LV,kandava,23
-IT,iseo,23
-HU,t�s,23
-BE,brüssel,23
-CZ,radvanice v čechách,23
-BG,пирдоп,23
-FR,saint-loubès,23
-LV,r?zekne,23
-PL,tarnow,23
-EL,patra,23
-SK,ro��ava,23
-SE,ekeby,23
-SE,värnamo,23
-EL,petroupoli,22
-EE,r�uge,22
-SK,čadca,22
-TR,isparta,22
-TR,teki̇rdağ,22
-ES,huelva,22
-DE,oldenburg,22
-ES,bolanos de calatrava,22
-TR,gi̇resun,22
-DE,bad liebenzell,22
-IT,modena,22
-ES,jerte,22
-FR,les cammazes,22
-FR,saint-etienne,22
-DE,daun,22
-LV,r�ga,22
-PL,siemianowice �l�skie,22
-RO,rucar,22
-HU,szegv�r,22
-FR,donneville,22
-PL,kielkowice,22
-FR,loos,22
-PL,bielsko-bia�a,22
-CZ,nymburk,22
-SI,borovnica,22
-DE,bottrop,22
-ES,zamora,22
-DE,bodensee,22
-PT,s. pedro do sul,22
-LU,weicherdange,22
-MK,krivogashtani,22
-SI,naklo,22
-FR,nort-sur-erde - 44,22
-PL,wisznice,22
-PL,cieszyn,22
-HU,balassagyarmat,22
-BG,�������,21
-BE,arlon,21
-PL,skar�ysko-kamienna,21
-AT,st. salvator,21
-SI,�mihel-novo mesto,21
-PL,mława,21
-NO,mandal,21
-HU,mezőkövesd,21
-HU,makó,21
-PL,konstancin-jeziorna,21
-HU,csesznek,21
-UK,bettws,21
-IT,valdagno vi,21
-AT,leobersdorf,21
-UK,llwynypia,21
-PL,bydgoszcz,21
-AT,berndorf,21
-PL,d�browa g�rnicza,21
-CZ,dvůr králové nad labem,21
-PT,guimar�es,21
-DE,berlin - mitte,21
-BG,haskovo,21
-LT,šilutė,21
-LV,al?ksne,21
-ES,pamplona,21
-SK,handlov?,21
-SK,handlova,21
-ES,medina del campo,21
-LT,ukmergė,21
-LV,kr?slava,21
-FR,60120 rouvroy les merles,21
-RO,reghin,21
-FR,arras,21
-HU,h�dmez�v�s�rhely,21
-SK,stupava,21
-SK,trebi�ov,21
-LV,sala,21
-HU,zalaszentgrót,21
-PT,t�bua,21
-LV,rujiena,21
-SI,gornja radgona,20
-SI,šempeter pri gorici,20
-SK,detva,20
-SI,logatec,20
-LT,"jadagonių k., kauno raj.",20
-PT,santar�m,20
-SK,šturovo,20
-UK,dagenham,20
-UK,conisborugh,20
-SK,levoča,20
-CZ,vsetin,20
-TR,uşak,20
-SK,handlová,20
-BG,stara zagora,20
-SI,bled,20
-PL,�migr�d,20
-AT,oberndorf an der melk,20
-PL,rzesz�w,20
-PL,lubniewice,20
-CZ,děčín,20
-UK,ystrad mynach,20
-DE,wuppertal,20
-FR,angouleme,20
-HU,pilismarót,20
-FR,villepinte,20
-ES,astudillo,20
-ES,benicassim,20
-HU,nagyoroszi,20
-IT,sassari,20
-HR,rab,20
-ES,durcal,20
-DE,villingen-schwenningen,20
-ES,guia de isora,20
-HU,algy�,20
-FR,niort,20
-FR,pouzols,20
-LV,līvāni,19
-UK,eastbourne,19
-TR,eski?ehir,19
-CZ,třebíč,19
-FR,strasburk,19
-EL,aspropirgos,19
-TR,karaman,19
-FR,pau,19
-LV,talsi,19
-FR,azay-le-ferron - 36,19
-LV,smiltene,19
-DE,halle,19
-EL,ioannina,19
-AT,kronstorf,19
-PL,ustrzyki dolne,19
-LV,jumprava,19
-TR,diyarbak?r,19
-HU,gilvánfa,19
-PL,murowana goślina,19
-SI,se�ana,19
-PL,ostrowiec �wi�tokrzyski,19
-SI,ravne na koro�kem,19
-SK,kysucke nove mesto,19
-PL,gdynia,19
-ES,vigo,19
-ES,vila-real,19
-HU,pécs,19
-BE,lanaken,19
-SK,spišská sobota,19
-HR,koprivnica,19
-HU,mosonmagyar�v�r,19
-SK,vranov nad top?ou,19
-BG,������ ���,19
-FR,montalembert,19
-SK,žiar nad hronom,19
-BE,genk,19
-FR,les karellis,19
-LT,požerūnai,19
-LT,girkalnis,19
-DE,volkmarsen,18
-NO,gulsrud,18
-BG,dimitrovgrad,18
-UK,craygavon,18
-MK,grad skopje,18
-NL,wijchen,18
-SK,komárno,18
-ES,venta del moro,18
-FR,polliat (01),18
-PL,zalecze wielkie,18
-FR,lodéve,18
-DE,neuendorf,18
-UK,bradford,18
-PL,kalsk,18
-LV,lēdmane,18
-PL,zygry,18
-SK,skalica,18
-UK,barking,18
-FR,agen,18
-LV,tukums,18
-UK,abbeywood,18
-DE,dorf mecklenburg,18
-CZ,poděbrady,18
-SK,rožňava,18
-PL,boryslawice koscielne,18
-ES,islantilla,18
-PL,ryn,18
-PL,lanckorona,18
-FR,haussonville - 54256,18
-IT,follonica,18
-NL,eindhoven,18
-HU,soponya,18
-EL,komotini,18
-HU,csongrád,18
-BE,florenville,18
-DE,berlin - marzahn,18
-PL,murzasichle,18
-ES,sant joan d'alacant,18
-BG,yambol,18
-LT,latakučiai,18
-ES,paterna,18
-UK,glan llyn,18
-SK,ždaňa,18
-UK,southampton,18
-ES,montijo,18
-AT,bad aussee,18
-RO,sinpaul,18
-FR,combeaufontaine - 70,18
-LV,staicele,17
-SK,rimavsk� sobota,17
-PL,sierpc,17
-CZ,pribram,17
-DE,herne,17
-MT,verdala palace,17
-ES,avil�s,17
-MK,"centar, skopje",17
-FR,mane,17
-LT,kulionys,17
-TR,tokat,17
-ES,caceres,17
-FI,hämeenlinna,17
-PL,wis�a,17
-CZ,česká lípa,17
-EE,p�lva linn,17
-DE,niedersachswerfen,17
-FR,seynod (74),17
-PL,�ywiec,17
-PL,w�lka smolana,17
-FR,belle-ile,17
-BG,ивайловград,17
-MT,marsaskala,17
-HU,győrújbarát,17
-IE,waterford,17
-PL,lubichowo,17
-SK,hanu?ovce nad top?ou,17
-HU,buda?rs,17
-PL,piszczac,17
-BE,ixelles,17
-LV,j?kabpils,17
-HU,bord�ny,17
-DE,glashagen,17
-HR,varaždin,17
-HU,bordány,17
-PL,przasnysz,17
-PT,esmoriz,17
-HU,gyomaendr?d,17
-LV,priekule,17
-HU,j�szkarajen�,17
-EE,k�rdla,17
-IE,balbriggan,17
-ES,torre de piles,17
-DE,wiesbaden,17
-UK,halifax,17
-ES,villanueva mesia,17
-RO,cluj-napoca (kolozsvár),17
-LT,radviliskis,17
-PL,trojaczkowice,16
-PL,minsk mazowiecki,16
-SK,galanta,16
-NL,malden,16
-RO,ardeoani,16
-HU,piliny,16
-SK,bansk? ?tiavnica,16
-RO,varbilau,16
-PL,micha�owo,16
-SI,la�ko,16
-CZ,mělník,16
-PT,�vora,16
-PL,biala podlaska,16
-HU,kazincbarcika,16
-SK,pre?ov,16
-DE,dietmannsried,16
-HR,slavonski brod,16
-CZ,krnov,16
-ES,el torno,16
-PL,kolonia szczercowska,16
-UK,woolwich,16
-LT,giedraičiai,16
-DE,heidenheim,16
-HU,keszthely,16
-PL,pomigacze,16
-SK,zborov,16
-AT,bad vöslau,16
-TR,adiyaman,16
-CZ,turnov,16
-EE,remniku,16
-FR,norrent fontes - 62,16
-PL,wodzis�aw �l�ski,16
-EE,kloogaranna,16
-PL,zajezierze,16
-UK,cookstown,16
-FR,clermont-ferrand,16
-FR,moncontour,16
-EE,viimsi,16
-CZ,třebenice,16
-LV,l�gatne,16
-TR,kırıkkale,16
-FR,bagnères de bigorre,16
-LV,olaine,15
-LT,kartena,15
-PL,czersk,15
-HU,hont,15
-PL,ustro�,15
-MK,gjorche petrov-skopje,15
-FR,sainte-foy-l�argenti�re,15
-DE,"kirschallee, 16837 rheinsberg",15
-AT,kematen an der krems,15
-LI,schaan,15
-SK,spišské tomašovce,15
-EE,meelva k�la,15
-LT,jomantai,15
-RO,boldesti-scaeni,15
-HU,bátonyterenye,15
-BE,charleroi,15
-LT,vištytis,15
-DE,hirschluch,15
-PL,tarnów,15
-SK,krásno nad kysucou,15
-PT,valen�a,15
-PL,nak�o �l�skie,15
-TR,deni̇zli̇,15
-FR,pontarlier 25300,15
-HU,f�le,15
-PL,jastrz�bia g�ra,15
-EE,j�geva,15
-FR,begles,15
-CZ,brandýs nad labem,15
-ES,castellón de la plana,15
-AT,st.marien,15
-TR,giresun,15
-ES,el roc�o (almonte),15
-PT,torres vedras,15
-FR,escatalens,15
-FR,massaguel,15
-AT,leonding,15
-LT,mukuliai,14
-HU,v�rv�lgy,14
-DK,kastrup,14
-DE,uelzen,14
-LT,mažeikiai,14
-LT,naujoji akmenė,14
-HU,z�k�nysz�k,14
-RO,constanta,14
-PL,jaroszowiec,14
-HU,kisköre,14
-LV,glāžšķūnis,14
-PL,piotrkow trybunalski,14
-TR,diyarbakır,14
-LV,loja,14
-CZ,robousy,14
-SI,semi�,14
-HU,liget,14
-HU,veresegyház,14
-DE,frankfurt am main,14
-LT,kūlupėnai,14
-CZ,prague,14
-RO,vultureni,14
-DE,osnabr�ck,14
-TR,?zmir,14
-EE,v�iko-h�rm�,14
-BE,oostende,14
-RO,sfantu gheorghe,14
-ES,ontinyent,14
-IT,atri,14
-TR,mu?,14
-PL,stęszew,14
-IE,kippure,14
-PL,oświęcim,14
-ES,bérchules,14
-DE,berlin - neuk�lln,14
-SK,topolčany,14
-MK,debar,14
-DE,grovesm�hle,13
-HR,vinkovci,13
-LT,žiežmariai,13
-PL,nowy targ,13
-PL,myszk�w,13
-LT,agluonėnai,13
-IT,isernia,13
-IT,"genova, rivarolo",13
-IE,trim,13
-SI,ro?inj,13
-LT,prienai,13
-ES,san juan de aznalfarache,13
-RO,darmanesti,13
-DE,joachimsthal,13
-DE,frankfurt,13
-UK,ipswich,13
-DE,appenrode,13
-PL,j�drzej�w,13
-CZ,třinec,13
-SI,sevnica,13
-RO,filipeni,13
-RO,onești,13
-PL,grudnia wielka,13
-BE,aubagne,13
-FR,abbeville,13
-HU,monostorap�ti,13
-FR,luxembourg,13
-DE,n�renburg,13
-PL,sułoszowa,13
-MK,krushevo,13
-UK,sussex,13
-SI,ajdov??ina,13
-PL,sędziszów małopolski,13
-TR,kayseri,13
-HR,dubrovnik,13
-MK,shuto orizari,13
-ES,alacant,13
-LT,kunioniai,13
-NL,alphen aan den rijn,13
-CZ,orlová,13
-RO,targoviste,13
-PL,turosn koscielna,13
-CZ,petrovice,13
-RO,targu mures,13
-DK,kobenhavn,13
-DE,"bismarckstra�e 70, 14109 berlin",13
-IE,"enniskerry, co wicklow",13
-LV,krāslava,13
-LV,more,13
-BG,минерални бани,13
-PL,sobk�w,13
-SK,raková,13
-FR,annecy,13
-HR,"njivice, krk",13
-PL,rajgr�d,13
-RO,racova,13
-SK,liptovsk? mikul?,13
-PL,skwierzyna,13
-CZ,kutna hora,13
-FR,bruxelles,13
-SI,izola,13
-FR,meaux,12
-FR,perigueux,12
-PL,nowy sącz,12
-RO,boldești scăieni,12
-FR,rieux volvestre,12
-PL,puszczykowo,12
-SI,levpa,12
-RO,plopana,12
-SI,deskle,12
-SI,ren�e -vogrsko,12
-RO,răchitoasa,12
-RO,ghimeș-făget,12
-FR,stra�bourg,12
-FR,hergnies,12
-ES,coria del r�o,12
-HU,hont / kútberek,12
-LT,jurbarkas,12
-ES,benicàssim,12
-DE,mohlsdorf-teichwolframsdorf,12
-HU,mátraverebély,12
-IE,limerick,12
-SK,levo�a,12
-TR,muş,12
-HU,nagyv�zsony,12
-SK,topoľčany,12
-DE,"schwedter str. 232, 10435 berlin",12
-CZ,trinec,12
-ES,mairena del aljarafe,12
-LT,grūšlaukė,12
-SK,nový smokovec,12
-HU,balaton,12
-HU,martonvásár,12
-DE,"schleusenstra�e 50, 15569 woltersdorf",12
-IT,milano,12
-DE,werftpfuhl,12
-DE,winnenden,12
-SK,dolný kubín,12
-ES,puebla de obando,12
-TR,çankırı,12
-HU,balmaz�jv�ros,12
-EE,kohtla-järve,12
-TR,�zmir,12
-FI,anjala,11
-ES,campotejar,11
-EE,pivarootsi k�la,11
-TR,sirnak,11
-PL,swarzędz,11
-RO,sat izvoarele,11
-SK,trenčin,11
-DE,greiz-pohlitz,11
-IE,carlow,11
-IE,tralee,11
-AT,hartberg,11
-HU,sármellék,11
-DE,paderborn,11
-FR,benoite vaux,11
-AT,voitsberg,11
-DE,eiserbuder weg 12 16348 marienwerder / ot ruhlsdorf,11
-SK,snina,11
-PL,bochnia,11
-DE,auma,11
-PL,januszkowo,11
-HU,balatonföldvár,11
-SI,tolmin,11
-UK,bath,11
-LT,elektrėnai,11
-IE,ballina,11
-LT,gražiškiai,11
-SI,postojna,11
-HU,�rtilos,11
-PL,poronin,11
-HR,mali lo�inj,11
-ES,hinojos,11
-PL,por�ba,11
-DE,schw?bisch hall,11
-DE,weissach,11
-PL,d�browa bia�ostocka,11
-HU,kistelek,11
-MT,dingli,11
-HU,zalaegerszeg,11
-DE,munich,11
-PL,wolka goscieradowska,10
-MK,gazi baba-skopje,10
-PL,łąg,10
-LV,centrs,10
-UK,lisburn,10
-FR,talence,10
-DE,berlin-kreuzberg,10
-FR,sainte-foy l'argenti�re,10
-HU,városlőd,10
-RO,tamași,10
-RO,odobesti,10
-SI,trbovlje,10
-PL,samborzec,10
-AT,enzesfeld,10
-SK,banska štiavnica,10
-HU,buda�rs,10
-ES,navalmoral de la mata,10
-DE,ludwigshafen,10
-HR,zabok/donja stubica,10
-PL,podd?bice,10
-BG,veliko tarnovo,10
-LT,jokūbavas,10
-SK,malacky,10
-CZ,kamyk nad vltavou,10
-FR,long,10
-MT,knż office,10
-LT,lazdijai,10
-RO,malureni,10
-UK,newport np20 2bp,10
-HU,ny?regyh?za,10
-HR,bjelovar,10
-DE,berlin-mitte,10
-DE,bad köstritz,10
-HU,p?szt?,10
-DE,halsbach,10
-FR,12 rodez,10
-UK,newport np20 2gh,10
-DE,b?hl,9
-LT,"baubliai, kretingos rajonas",9
-AT,leibnitz,9
-IE,"ferns, wexford",9
-DE,anklam,9
-AT,gleisdorf,9
-UK,pontypool np4 5yg,9
-DE,schwandorf,9
-FR,mancieulles,9
-FR,bagnéres de bigorre,9
-IT,quartu santelena,9
-AT,feldbach,9
-MK,negotino,9
-FR,pézenas,9
-ES,cazalla de la sierra,9
-HU,p�cs,9
-DE,berlin-wannsee,9
-RO,vîlcănești,9
-NO,bergen,9
-NO,moss,9
-ES,calpe,9
-ES,castell�n,9
-HU,kurd,9
-BE,st. vith,9
-LT,ariogala,9
-SK,piestany,9
-PL,gr�dek,9
-PL,jaworzno,9
-DE,hildburgshausen,9
-HU,börzsönyliget,9
-CZ,dolní studénky,9
-HU,r�ckeve,9
-HU,nyiregyh�za,9
-HU,kistokaj,9
-EE,k�smu,9
-AT,murau,9
-EE,nõo,9
-EE,rapla,9
-EE,r�pina,9
-HU,tata,9
-DE,engen,9
-RO,măneciu pământeni,9
-RO,solont,9
-SK,považská bystrica,8
-AT,krems,8
-TR,çanakkale,8
-DE,kleinreinsdorf,8
-AT,bad gleichenberg,8
-BE,châtelet,8
-RO,moinesti,8
-ES,tocina-los rosales,8
-EE,loksa,8
-DE,pforzheim,8
-DE,westernohe,8
-UK,oxford,8
-RO,chiajna,8
-FI,naantali,8
-UK,north down,8
-ES,avila,8
-UK,newtownabbey,8
-RO,marisel,8
-EE,võru,8
-AT,st.p�lten,8
-AT,kottingbrunn,8
-BG,sofiq,8
-PL,sucha beskidzka,8
-HU,tisza?jv?ros,8
-CZ,havirov,8
-DE,eiserbuder weg 12 16348 marienwerder,8
-PL,bystrzyca k�odzka,8
-DE,freiburg,8
-HU,ikervár,8
-PL,lubliniec,8
-PL,wronki,8
-LT,pagėgiai,8
-PL,suwa�ki,8
-HU,mezőkovácsháza,8
-HU,j?szber?ny,8
-MK,kichevo,8
-HR,krapina,8
-CZ,litovel,8
-FR,roye,8
-LV,rīga,8
-UK,margam park,7
-RO,oncesti,7
-FR,annecy (74),7
-SK,partizanske,7
-NO,mo i rana,7
-CZ,litomerice,7
-RO,pirjol,7
-PL,�owicz,7
-HU,szank,7
-RO,valea călugăreacă,7
-IE,"bray, co. wicklow",7
-AT,fürstenfeld,7
-CZ,zabreh na morave,7
-MT,safi,7
-DE,blaubeuren,7
-UK,derry,7
-PL,nowa ruda,7
-DE,hildburghausen,7
-AT,schönau,7
-SI,medvode,7
-LT,širvintos,7
-DE,zeitlarn,7
-FI,kannus,7
-CZ,praha 5,7
-HU,salgotarjan,7
-AT,günselsdorf,7
-ES,donostia - san sebasti?n,7
-SK,oščadnica,7
-UK,llanelli,7
-IT,siena,7
-DE,ballweiler,7
-UK,derbyshire,7
-PT,ger�s,7
-RO,băicoi,7
-RO,câmpina,7
-SK,tur?ianske teplice,7
-CZ,praha 6,7
-DE,sillenbuch,7
-RO,gârleni,7
-DE,tecklenburg,7
-PT,terras do bouro,7
-SK,krasno nad kysucou,7
-SK,komjatná,7
-DE,auenwald,7
-DE,blieskastel,7
-NL,soestdijk,7
-LT,druskininkai,7
-LI,bendern,6
-CZ,trebon,6
-DE,buir,6
-EE,märjamaa,6
-CZ,jesenik,6
-FR,tourcoing,6
-SK,cifer,6
-AT,ansfelden,6
-TR,denizli,6
-SK,veľké leváre,6
-HR,mali lošinj,6
-ES,�cija,6
-DE,hilburghausen,6
-SK,?adca,6
-LI,triesen,6
-IE,portlaoise,6
-DE,pahna,6
-HU,kadark?t,6
-SI,radenci,6
-HU,harc,6
-FR,laon,6
-CZ,prerov,6
-DE,wei?ensee,6
-HU,mikepércs,6
-AT,deutschlandsberg,6
-AT,mürzzuschlag,6
-SK,staškov,6
-HU,börcs,6
-HU,márok,6
-RO,secuieni,6
-PL,jednoro�ec,6
-RO,odobești,6
-CZ,teplice,6
-FR,rieux-volvestre,6
-FR,méze,6
-FR,saint-quentin,6
-EE,iisaku,6
-ES,villanueva mes�a,5
-DE,jugendzentrum ellrich,5
-PL,roztoka,5
-FR,saint-ouen,5
-NL,alphen aan de rijn,5
-SI,kr?ko,5
-HU,levelek,5
-HU,úrhida,5
-HU,"kápolnásnyék, budapest",5
-PT,povoa de varzim,5
-HR,stubicke toplice,5
-AT,dornbirn,5
-IE,yerevan,5
-HU,halimba,5
-UK,pontypridd,5
-NO,bodø,5
-LT,gratiškės,5
-ES,c�rdoba,5
-DE,salach,5
-DE,buttst?dt,5
-SI,trstenik,5
-HU,ajka,5
-SK,klokočov pri čadci,5
-CZ,troubky,5
-FR,agde,5
-FR,dourgne,5
-CZ,pečky,5
-RO,com. traian,5
-BG,vratza,5
-HU,dusnok,5
-AT,traisen,5
-UK,newport,5
-HU,bácsalmás,5
-PL,tczew,5
-CZ,slany,5
-AT,marz,5
-DE,s?mmerda,5
-HU,bugyi,5
-FR,bois-le-roi,5
-RO,solonț,5
-FR,ribérac,5
-HU,doboz,5
-LT,kaišiadorys,5
-DE,pohlitz,5
-FR,07 annonay,5
-CZ,kamýk nad vltavou,5
-HU,budaors,5
-HU,pásztó,5
-PL,tychy,5
-IE,"castlebar, co.mayo",5
-SK,tekovské nemce,5
-HU,dombóvár,4
-PL,kościerzyna,4
-HU,ikevár,4
-EE,jõhvi,4
-PL,kutno,4
-AT,liezen,4
-LV,n�ca,4
-SK,považska bystrica,4
-AT,mils,4
-SK,?ilina,4
-FR,la teste de buch,4
-HU,siófok,4
-FR,10000 - troyes,4
-MT,phoenicia,4
-RO,vălenii de munte,4
-CZ,brandys nad labem,4
-LV,ķegums,4
-HU,mohács,4
-RO,podul turcului,4
-FR,rouvroy-le-merles,4
-UK,pembroke,4
-AT,st.gilgen,4
-UK,pontypool,4
-RO,magiresti,4
-CZ,prague 2,4
-LI,altach,4
-BG,lovetch,4
-FR,marseillan,4
-CZ,mohelnice,4
-FR,london,4
-DE,eichst�tt,4
-BE,namur,4
-DE,berlin bezirk mitte,4
-UK,dundee,4
-CZ,prague 4,4
-BE,innsbruck,4
-DE,harztor,4
-CZ,usti nad labem,4
-HU,leányvár,4
-AT,klagenfurt am w�rthersee,3
-ES,aviles,3
-UK,st andrews,3
-SI,idirja,3
-PT,vila nova de famalic�o,3
-IE,laois,3
-ES,g�nes,3
-BG,kysutendil,3
-IE,mallow,3
-CZ,melnik,3
-TR,bingöl,3
-SK,vrbov?,3
-FR,07100 annonay,3
-MK,novaci,3
-SK,pie??any,3
-AT,leoben,3
-AT,obertrum,3
-DE,bremen - fesenfeld,3
-SE,göteborg,3
-FR,54220 - benoite vaux,3
-MT,naxxar,3
-DE,kirchberg,3
-ES,torres de piles,3
-EE,parnu,3
-HU,heves,3
-BE,st.vith,3
-FR,62 air sur la lys,3
-HU,mezőtúr,2
-PL,cz?stochowa,2
-ES,atarfe,2
-IE,an ring,2
-SK,sere?,2
-PL,b?dzin,2
-EE,sauga,2
-IE,bray,2
-CZ,blatna,2
-IE,"castlebar, co. mayo",2
-HU,szajol,2
-CZ,vodnany,2
-UK,asford,2
-DE,halle(saale),2
-IT,latiano,2
-FR,60120 - rouvroy-les-merles,2
-TR,e,2
-FR,62 - aire sur la lys,2
-DE,wenigerode,2
-FR,starsburk,2
-UK,newry & mourne,2
-UK,newtown abbey,2
-FR,sainte-foy-l'argentiere,2
-FI,karjaa,2
-PL,�om�a,2
-DE,eppelborn,2
-FR,annecy-le-vieux,2
-CZ,prague 20,2
-FR,bagneres de bigorre,2
-DE,81675 m�nchen,2
-DE,schwerin,2
-EL,athen,2
-DE,82061 m�nchen,2
-PT,terras de bouro,2
-CZ,prague 11,2
-IT,bonn,2
-FR,07100 - annonay,2
-HR,donja stubica,2
-DE,"berlin, mitte",2
-IE,dungarvan,2
-NL,berlin,2
-DK,stege,2
-EE,tori,2
-DK,odense,2
-PL,lutomiersk,2
-HU,berettyóújfalu,2
-HU,baja,2
-CZ,cesky krumlov,2
-DK,ballerup,2
-PL,piotkr?w trybunalski,2
-PL,rzesz?w,2
-SK,zilina,2
-TR,i̇çel (mersin),1
-EE,tabiere,1
-TR,muğla,1
-TR,iğdir,1
-EE,v��tsa,1
-TR,kirikkale,1
-TR,kahramanmaraş,1
-TR,kırıkkal,1
-EE,v�iko-h�rm� k�la,1
-TR,karabük,1
-TR,kirklareli̇,1
-MK,gjorchepetrov-skopje,1
-MK,ohird,1
-EE,vastse-kuutse,1
-TR,kirşehi̇r,1
-AT,oberndorf,1
-MK,gjorce petrov-skopje,1
-TR,mani̇sa,1
-TR,kars,1
-IE,"iveagh house, dublin",1
-DE,rostock,1
-TR,ni̇ğde,1
-IE,wicklow,1
-DK,aarhus,1
-UK,greater manchester,1
-UK,hove,1
-IT,bariari,1
-DE,berliln,1
-DE,berglen,1
-AT,furth/göttweig,1
-UK,londonlasgow,1
-DE,werniogerode,1
-DE,belgrad,1
-IT,menaggio (como),1
-IT,"menaggio, como",1
-IT,puglia,1
-DE,weissach im tal#,1
-UK,nr. truro,1
-DE,auma_weidatal,1
-DE,10405 berlin,1
-DE,weinstadt,1
-UK,southhampton,1
-DE,82061  m�nchen,1
-DE,allmersbach im tal,1
-UK,upton upon severn,1
-DE,staußberg,1
-DE,stuttugart,1
-UK,elderslie,1
-UK,edinub,1
-DK,berlin,1
-TR,şanliurfa,1
-TR,ordu,1
-TR,sakarya,1
-MK,gazi baba- skopje,1
-MK,gazi baba - skopje,1
-TR,si̇i̇rt,1
-EE,pivarootsi,1
-TR,tunceli̇,1
-LV,ventspils,1
-TR,zonguldak,1
-TR,çankiri,1
-IE,athlone,1
-IE,"enniskerry co wicklow,",1
-UK,derrry,1
-IE,"enniskerry, co",1
-DE,sangerhausen,1
-DK,silkeborg,1
-LV,latvia,1
-IE,"enniskerry, co. wcklow",1
-DE,schelmenzholz,1
-UK,carmarthen,1
-DE,stendal,1
-IE,leeaun,1
-IE,leenan,1
-LV,barkovs,1
-EL,afixis,1
-BE,bruxeles,1
-EL,alexandrupolis,1
-HR,petrijevci,1
-DE,"hellersdorf, berlin",1
-FI,hämeenlnna,1
-HR,brije��e,1
-FI,naatntali,1
-FI,sein�joki,1
-PL,szczecin,1
-DE,hamburg - sternschanze,1
-FR,07 - annonay,1
-FR,1000 troyes,1
-FR,10000 angers,1
-FR,12 aveyron,1
-FR,valdéries,1
-RS,belgrade,1
-FR,60 -  rouvroy les merles,1
-PL,toru?,1
-FR,60 - rouvroy les merles,1
-FR,6120 rouvroy les merles,1
-PL,sobkow,1
-PL,rakowiec,1
-DE,eiserbuder weg 12 16348 marienwerder/ ot ruhlsdorf,1
-ES,villanueva del fresno,1
-PL,maszewo,1
-ES,tolosa,1
-DE,illingen,1
-SI,tstenik,1
-DE,burgstetten,1
-PL,"oksywie,  gdynia",1
-DE,hohe b�rde ot irxleben,1
-PL,"oksywie,gdynia",1
-PL,ostrowiec świętokrzyski,1
-SI,ren�e-vogrsko,1
-SI,ren�e vogrsko,1
-PL,pastwiska,1
-DE,dessau,1
-HR,vi�njevac,1
-PL,pozna?,1
-BE,jakarta,1
-PL,rajgrod,1
-FR,62 - air sur la lys,1
-FR,s�l�stat (68),1
-TR,hatay,1
-RO,garleni,1
-PT,povoa de arzim,1
-FR,bois le bois,1
-PT,p�voa de vrzim,1
-PT,p�voa do varzim,1
-PT,p�voa e varzim,1
-DE,greifswald,1
-FR,chainaz,1
-BG,penik,1
-PT,v,1
-RO,bucurești,1
-DE,gre,1
-PT,viana,1
-FR,guitalens,1
-DE,fridich jakob heims,1
-BG,radomir,1
-FR,las cases,1
-RO,baile homorod,1
-FR,montagnac,1
-DE,feriendorf dorado brandenburg bei berlin eiserbuder weg 12  16348 marienwerder/ ot ruhlsdorfferiendorf dorado brandenburg bei berlin eiserbuder weg 12  16348 marienwerder/ ot ruhlsdorf,1
-PL,wia�a,1
-FR,palaiseau,1
-FR,ste foy l argentiere,1
-RO,slanic moldova`,1
-RO,slanic moldova.,1
-BE,st; vith,1
-PL,w�oc�awek,1
-FR,62 aire sur le lys,1
-PL,zielona g?ra,1
-FR,64 - aire sur la lys,1
-FR,67730 - la vancelle,1
-DE,hale (saale),1
-FR,arfons,1
-DE,epplhein,1
-FR,aventtignan,1
-DE,fasanenstrasse85-10623berlin,1
-PT,casvais,1
-FR,pezenas,1
-FR,pantin,1
-ES,tocina- los rosales,1
-SK,banská  bystrica,1
-SK,banská štiavnica,1
-NL,apeldoorn,1
-NL,bruxelles,1
-ES,almeria,1
-DE,openweiler,1
-ES,amposta (tarragona),1
-NL,nijmgen,1
-HU,nyiregyházza,1
-HU,nyiregyhaza,1
-BE,belgien,1
-NL,the netherlands,1
-NL,utrch,1
-NL,utre,1
-NL,utrechty,1
-SK,turanyy,1
-ES,benicàsim,1
-BE,borgerhout,1
-NL,utrecth,1
-ES,bennicàssim,1
-TR,a,1
-ES,allicante,1
-ES,sant joant d'alacant,1
-TR,aksaray,1
-TR,hakkari̇,1
-TR,gümüşhane,1
-TR,gazi̇antep,1
-DE,reinwarzhof,1
-MK,stuga,1
-TR,elaziğ,1
-TR,burdur,1
-TR,bi̇tli̇s,1
-TR,bi̇ngöl,1
-HU,pásztóó,1
-TR,batman,1
-TR,balikesi̇r,1
-ES,algeciras,1
-TR,ağri,1
-ES,alicnte,1
-TR,amasya,1
-ES,alilcante,1
-HU,mátreaverebély,1
-ES,c,1
-SK,svit,1
-ES,castellón,1
-DE,"mitte,berlin",1
-PL,góra,1
-BE,dendermone,1
-DE,mianz,1
-SK,humenné,1
-DE,magdburg,1
-HU,debrece,1
-SK,hndlova,1
-DE,lutherstadt wittenberg,1
-CZ,hradec kralove,1
-PL,krak?w,1
-CZ,hodonin,1
-SK,dunajská streda,1
-SK,dolný  bar,1
-ES,requena,1
-PL,lebork,1
-SK,c. ondrej,1
-CZ,hranicev čechách,1
-HU,g,1
-SK,matin,1
-ES,cazalla,1
-DE,bittefeld,1
-ES,castellón  de la plana,1
-SK,sp.nová ves,1
-CZ,kromeriz,1
-FR,jambville,1
-SK,sihelne,1
-ES,castellón de la  plana,1
-PL,bia?ystok,1
-PL,cz�tochowa,1
-SK,rožňa,1
-PL,bialystok,1
-DE,m�nster,1
-SK,považsá bystrica,1
-DE,münchenberndorf,1
-SK,nová bystrica,1
-PL,cz�sochowa,1
-LT,anykšiai,1
+Receiving Country Code,Receiving City,Country Code Cat,Count
+UK,london,33,3241
+DE,berlin,5,3149
+HU,budapest,13,2272
+IE,dublin,14,2201
+FR,paris,11,2080
+EE,tallinn,7,1603
+SI,ljubljana,30,1574
+FR,strasbourg,11,1456
+DE,hagen,5,1431
+ES,valencia,9,1304
+LU,luxembourg,19,1263
+LV,riga,20,1195
+HR,zagreb,12,1144
+LT,vilnius,18,1124
+DE,bremen,5,1058
+IT,roma,16,1025
+BG,sofia,2,1006
+DE,stuttgart,5,995
+TR,ankara,32,973
+CY,nicosia,3,957
+CZ,praha,4,938
+PL,warszawa,25,928
+ES,madrid,9,927
+DE,aachen,5,907
+FI,helsinki,10,899
+PL,lublin,25,880
+UK,belfast,33,856
+CZ,brno,4,805
+SK,trenčín,31,793
+PL,lodz,25,769
+AT,wien,0,758
+NO,oslo,24,752
+EL,thessaloniki,8,741
+PL,kielce,25,698
+PL,cz�stochowa,25,695
+ES,oviedo,9,682
+DE,hannover,5,671
+TR,istanbul,32,642
+RO,bucuresti,27,635
+BE,bruxelles,1,618
+FR,montpellier,11,612
+MK,skopje,21,610
+UK,st helens,33,607
+FR,bordeaux,11,604
+EL,athens,8,604
+MT,st venera,22,603
+NL,utrecht,23,597
+RO,ramnicu sarat,27,597
+IS,reykjavík,15,597
+LT,kaunas,18,596
+UK,cardiff,33,594
+PT,cascais,26,587
+UK,manchester,33,583
+SK,bratislava,31,563
+MT,msida,22,544
+PL,gdansk,25,534
+BE,brussel,1,513
+TR,izmir,32,495
+LV,gulbene,20,494
+RO,bacau,27,486
+TR,i̇stanbul,32,478
+DE,m�nchen,5,477
+IT,torino,16,466
+DE,esslingen,5,460
+PL,rawa mazowiecka,25,448
+HR,osijek,12,446
+UK,huddersfield,33,444
+PL,wroc�aw,25,438
+SK,žilina,31,429
+FR,rennes,11,423
+IT,rome,16,419
+SK,trencin,31,417
+DE,berlin - prenzlauer berg,5,415
+TR,bursa,32,408
+UK,birmingham,33,394
+ES,granada,9,393
+BE,schaarbeek,1,391
+TR,i̇zmir,32,386
+UK,leeds,33,381
+SE,stockholm,29,374
+RO,cluj-napoca,27,370
+IT,lecce,16,366
+NL,den haag,23,362
+PT,porto,26,361
+TR,konya,32,357
+CY,limassol,3,355
+HR,rijeka,12,352
+CZ,jindřichův hradec,4,350
+DE,magdeburg,5,346
+NL,rotterdam,23,339
+HU,b�k�s,13,332
+FR,rouvroy-les-merles,11,331
+RO,timisoara,27,330
+MK,prilep,21,320
+PL,starachowice,25,318
+UK,ashford,33,313
+SI,maribor,30,301
+BE,brussels,1,296
+DK,k�benhavn k,6,293
+AT,salzburg,0,293
+PT,faro,26,291
+ES,zaragoza,9,290
+FR,metz,11,289
+HR,vukovar,12,285
+EE,tartu,7,283
+RO,bucharest,27,281
+CY,lefkosia,3,280
+DK,k?benhavn n,6,279
+PL,"oksywie, gdynia",25,276
+CZ,liberec,4,273
+DE,k?lleda,5,270
+LV,tor?akalns,20,269
+NL,amsterdam,23,263
+FR,lille,11,263
+ES,torrent,9,263
+UK,edinburgh,33,260
+FR,vandoeuvre,11,259
+FI,tampere,10,257
+FR,reims,11,256
+LV,sigulda,20,254
+MK,struga,21,252
+HR,samobor,12,250
+UK,liverpool,33,247
+AT,linz,0,247
+PL,gdańsk,25,244
+CZ,chomutov,4,241
+ES,alicante,9,240
+PL,gliwice,25,240
+PT,p�voa de varzim,26,239
+CZ,zlín,4,237
+ES,barcelona,9,235
+CY,larnaca,3,234
+DE,marienwerder,5,232
+CZ,ostrava,4,231
+RO,craiova,27,230
+HR,sisak,12,229
+PT,viseu,26,226
+LV,republikas laukums,20,226
+IT,salerno,16,224
+IT,macerata,16,223
+LV,daugavpils,20,220
+RO,slanic moldova,27,219
+PT,almada - caparica,26,218
+HU,pécsvárad,13,217
+DE,greiz,5,214
+RO,dr. tr. severin,27,214
+HU,bag,13,214
+DE,koln,5,213
+IT,sarezzo,16,212
+CZ,horní maršov,4,212
+PL,katowice,25,207
+PT,portim�o,26,207
+HR,zadar,12,206
+TR,adana,32,204
+FR,cenon,11,204
+FR,nantes,11,201
+SK,trnava,31,201
+PT,vila nova de famalicao,26,200
+UK,newcastle,33,199
+DE,weissach im tal,5,197
+AT,hallein,0,196
+UK,omagh tyrone,33,195
+DE,verden,5,195
+LV,lielvārde,20,195
+PL,krak�w,25,192
+CZ,plzeň,4,189
+HU,dány,13,188
+FR,thionville,11,187
+LT,kretinga,18,187
+LT,trakai,18,185
+RO,bistrita,27,183
+BG,пловдив,2,182
+SI,velenje,30,182
+BG,blagoevgrad,2,181
+RO,isverna,27,181
+BG,plovdiv,2,179
+RO,poiana brasov,27,179
+BG,omurtag,2,178
+AT,graz,0,177
+BG,варна,2,175
+UK,barnsley,33,175
+ES,segovia,9,173
+UK,doncaster,33,172
+EE,viljandi,7,172
+CZ,praha 10,4,170
+HU,levél,13,170
+FR,epinal,11,170
+PL,sieradz,25,169
+IT,ancona,16,169
+TR,antalya,32,169
+LV,ziepniekkalns,20,169
+HU,salgótarján,13,168
+PL,łódź,25,165
+PL,??d?,25,164
+PT,funchal,26,164
+PT,lisboa,26,163
+ES,m�rida,9,161
+PL,warsaw,25,160
+DE,backnang,5,160
+UK,bristol,33,160
+HR,belec,12,160
+UK,york,33,158
+FI,jyv�skyl�,10,158
+ES,jerez de la frontera,9,156
+IT,catania,16,155
+IS,selfoss,15,154
+DE,fleeth,5,154
+RO,baile herculane,27,154
+UK,aberdeen,33,153
+DE,münchenbernsdorf,5,153
+PL,sosnowiec,25,153
+LT,alytus,18,153
+HU,eger,13,152
+DE,rhauderfehn,5,151
+EE,narva,7,147
+HR,split,12,147
+CZ,české budějovice,4,147
+ES,val�ncia,9,147
+LV,saldus,20,146
+MT,valletta,22,145
+FR,marseille,11,145
+TR,kızılay çankaya/ankara,32,145
+FR,amiens,11,144
+HU,zalaszentgrot,13,144
+PT,palmela,26,144
+PL,pozna�,25,143
+LU,mersch,19,143
+MK,bitola,21,142
+UK,derby,33,141
+PL,chorzów,25,141
+RO,drobeta turnu severin,27,141
+IT,napoli,16,141
+IT,messina,16,141
+CZ,prague 1,4,140
+MT,zejtun,22,140
+SI,celje,30,139
+FR,lyon,11,139
+IT,galatone,16,139
+LV,cesis,20,138
+LT,tauragė,18,137
+LT,marijampolė,18,137
+DK,kolding,6,136
+UK,preston,33,136
+ES,vitoria-gasteiz,9,135
+RO,baia mare,27,135
+ES,c�ceres,9,135
+BG,vidin,2,134
+LT,plungės m. plungės raj.,18,134
+DE,iserlohn,5,134
+HU,szeged,13,133
+TR,mardin,32,133
+SK,banská bystrica,31,133
+ES,valladolid,9,133
+ES,sevilla,9,132
+SE,boden,29,131
+AT,innsbruck,0,131
+ES,salamanca,9,130
+UK,glasgow,33,130
+TR,van,32,130
+SK,nitra,31,129
+FR,besançon,11,129
+FI,lahti,10,128
+ES,alhama de granada,9,128
+ES,le�n,9,127
+ES,palencia,9,127
+LT,utena,18,127
+TR,balikesir,32,127
+PL,opole,25,125
+ES,mislata,9,125
+PT,olhao,26,124
+SI,novo mesto,30,123
+DK,roskilde,6,123
+LI,vaduz,17,123
+RO,balan,27,123
+ES,burgos,9,122
+FR,montreuil,11,122
+DE,erfurt,5,121
+SE,lund,29,120
+DE,wittenberg,5,120
+NL,vlijmen,23,120
+HU,debrecen,13,118
+FR,62 aire sur la lys,11,118
+HU,nyíregyháza,13,117
+HR,pregrada,12,117
+FR,55220 - benoite vaux,11,117
+BG,смолян,2,117
+PT,coimbra,26,117
+LV,ogre,20,116
+HU,miskolc,13,116
+ES,numancia de la sagra,9,116
+HU,kom�rom,13,115
+CZ,prague 6,4,115
+IT,padova,16,115
+PL,krakow,25,114
+UK,bransgore,33,114
+PL,zakopane,25,113
+TR,diyarbakir,32,113
+ES,torrellas,9,113
+BE,kelmis,1,113
+FR,annonay,11,112
+BE,gent,1,112
+TR,edirne,32,111
+CZ,louny,4,111
+NL,the hague,23,111
+SE,hallsberg,29,108
+FR,sevrier,11,108
+EE,kuressaare,7,107
+HU,veszprém,13,107
+AT,aggsbach dorf,0,106
+HU,budaörs,13,106
+BG,������,2,106
+SK,sihelné,31,106
+PL,m. kielce,25,106
+HU,lajosmizse,13,106
+RO,ploiesti,27,105
+ES,santander,9,105
+TR,eskişehir,32,105
+FI,jyväskylä,10,104
+UK,exeter,33,104
+LT,vilkaviškis,18,103
+ES,almer?a,9,103
+SK,žaškov,31,103
+EE,haapsalu,7,102
+DE,fellbach,5,102
+SK,zvolen,31,102
+TR,tekirdağ,32,102
+CZ,blansko,4,101
+PL,niemodlin,25,101
+UK,heckmondwike,33,101
+TR,gaziantep,32,101
+SK,cadca,31,101
+PT,chaves,26,101
+DE,eschwege,5,100
+UK,rotherham,33,100
+PT,estarreja,26,100
+DE,dortmund,5,100
+TR,elazığ,32,99
+SK,ziar nad hronom,31,99
+EE,rakvere,7,99
+PL,��d�,25,99
+ES,mollina,9,99
+BG,златоград,2,99
+DE,augsburg,5,99
+RO,iasi,27,99
+ES,manises,9,98
+PL,be?chat?w,25,98
+LV,liepaja,20,98
+NO,utøya,24,98
+BG,кърджали,2,98
+ES,bilbao,9,97
+CZ,litoměřice,4,97
+SK,prievidza,31,97
+UK,swindon,33,97
+UK,dungannon,33,96
+IT,palermo,16,96
+CZ,jindrichuv hradec,4,96
+MT,hamrun,22,96
+DK,aalborg,6,96
+LT,kalvarija,18,95
+TR,eski�ehir,32,95
+EL,heraklion,8,94
+LT,raseiniai,18,94
+FR,aubagne,11,93
+AT,klagenfurt,0,93
+ES,huesca,9,93
+PT,lamego,26,93
+LT,jašiūnai,18,92
+EL,athina,8,92
+RO,valea mare,27,92
+EE,paide,7,92
+PT,amora,26,92
+IT,campofelice di roccella (pa),16,91
+SK,podhradie,31,91
+CZ,olomouc,4,91
+HU,magyaralmás,13,91
+SK,košice,31,91
+RO,sibiu,27,90
+DE,weimar,5,90
+HR,pula,12,89
+ES,moguer,9,88
+AT,velden/w?rthersee,0,87
+AT,st. pölten,0,87
+SI,slovenske konjice,30,86
+NL,stadskanaal,23,86
+PL,kwidzyn,25,85
+DE,"mitte, berlin",5,85
+AT,kufstein,0,85
+FR,01340 foissiat,11,85
+DE,weida,5,84
+ES,donostia san sebastian,9,84
+PL,czestochowa,25,84
+BG,burgas,2,84
+BE,br�ssel,1,84
+NO,drammen,24,83
+FR,"saint-loup-sur-aujon,52450",11,83
+LV,"priekulu novads, priekuli",20,83
+TR,merkez,32,83
+BE,banneux sprimont,1,82
+PL,gda�sk,25,82
+DE,koblenz,5,82
+PL,bytom,25,81
+TR,eskisehir,32,81
+RO,costinesti,27,81
+FR,giel-courteilles (61),11,81
+LV,liepāja,20,81
+LT,kėdainiai,18,81
+SK,kežmarok,31,80
+BE,leuven,1,80
+PL,kraków,25,80
+BG,с. чифлик,2,80
+NO,lillehammer,24,80
+ES,gij�n,9,80
+FR,samonac,11,79
+PL,brenna,25,79
+LU,dudelange,19,79
+LT,birštonas,18,79
+DE,bonn,5,79
+ES,santa cruz de tenerife,9,79
+PL,piotrk�w trybunalski,25,79
+DE,essen,5,78
+NO,voss,24,78
+LT,marijampole,18,78
+SK,zázrivá,31,78
+HU,kecskemét,13,77
+ES,toledo,9,77
+IS,borgarnes,15,77
+BE,diest,1,77
+DE,hattingen,5,76
+DE,flensburg,5,76
+DE,nordhausen,5,76
+DE,"eiserbuder weg 12, 16348 marienwerder/ ot ruhlsdorf",5,76
+MT,sliema,22,76
+AT,tulln,0,76
+SI,ptuj,30,76
+AT,krems an der donau,0,76
+CZ,hradec králové,4,76
+TR,sanliurfa,32,75
+BG,vratsa,2,75
+BG,antonovo,2,75
+PL,starogard gdański,25,75
+SI,kanal,30,75
+FI,turku,10,75
+SI,slovenj gradec,30,74
+LT,šiauliai,18,74
+BE,kalmthout,1,74
+MK,shtip,21,74
+TR,erzurum,32,74
+MK,kavadarci,21,74
+ES,el padul,9,74
+IT,spoleto,16,73
+SE,ystad,29,73
+BE,st.-jans molenbeek,1,73
+ES,bormujos,9,73
+SE,ume�,29,73
+SK,prešov,31,73
+MT,birkirkara,22,73
+DE,marl,5,73
+IT,bologna,16,73
+FR,béziers,11,72
+BE,mechelen,1,72
+DE,bochum,5,72
+UK,brighton,33,72
+FR,10000 troyes,11,72
+SE,borlänge,29,72
+UK,taunton,33,72
+BE,eupen,1,72
+EE,v�ru,7,72
+LT,klaipėda,18,72
+PT,albufeira,26,71
+RO,cluj,27,71
+PL,leszno,25,71
+FR,toulouse,11,71
+CZ,jihlava,4,71
+PL,swinoujscie,25,71
+PT,agualva - cacém,26,71
+ES,almonte,9,71
+RO,suceava,27,71
+FR,neuilly,11,71
+IT,taormina,16,71
+AT,bregenz,0,71
+ES,santa comba,9,70
+UK,hull,33,70
+DE,16348 marienwerder,5,70
+HU,székesfehérvár,13,70
+PL,poznan,25,70
+UK,bentley,33,69
+UK,harrow,33,69
+IT,ascoli piceno,16,69
+RO,sascut,27,69
+HU,szolnok,13,69
+PL,�yrard�w,25,68
+ES,torrellas (zaragoza),9,68
+BG,�����,2,68
+SK,dubové,31,68
+RO,onesti,27,68
+LV,madona,20,68
+PL,zgierz,25,68
+LT,panevėžys,18,68
+FR,dax,11,68
+EL,αθηνα,8,68
+BG,кирково,2,68
+SK,spišský štvrtok,31,68
+PT,melga�o,26,67
+SK,spišská nová ves,31,67
+SK,spišské tomášovce,31,67
+AT,horn,0,67
+RO,comanesti,27,67
+ES,lugo,9,67
+SI,�kofja loka,30,67
+DK,copenhagen k,6,67
+PL,chorz�w,25,67
+UK,sheffield,33,67
+HU,győr,13,67
+DE,bleicherode,5,66
+TR,�stanbul,32,66
+ES,las rozas de madrid,9,66
+HU,cegléd,13,66
+BE,borsbeek,1,66
+RO,"comuna simian, sat simian",27,65
+IE,galway,14,65
+DE,"eiserbuder weg 12, 16348 marienwerder",5,65
+FR,cassen,11,65
+SK,dolný bar,31,65
+NL,'s-gravenhage,23,65
+ES,santa cruz de la palma,9,64
+LT,jonava,18,64
+FR,chainaz-les-frasses,11,64
+SK,pezinok,31,64
+UK,bridgend,33,64
+SK,ružomberok,31,64
+DK,humlebaek,6,64
+BE,overijse,1,64
+DK,dragoer,6,64
+DE,passau,5,63
+IT,fermo,16,63
+HU,törökbálint,13,63
+EE,j�hvi,7,63
+EL,larissa,8,63
+LT,anykščiai,18,63
+ES,ciudad real,9,63
+BG,софия,2,63
+CY,paphos,3,63
+PL,wroclaw,25,63
+HU,budakeszi,13,63
+IT,firenze,16,62
+ES,amposta,9,62
+ES,soria,9,62
+SK,bardejov,31,62
+BG,varna,2,62
+PT,tavira,26,62
+PL,piotrk?w trybunalski,25,61
+FR,saint martin en haut (69),11,61
+BE,kortrijk,1,61
+PL,tarn�w,25,61
+PL,b�dzin,25,61
+SI,nova gorica,30,61
+UK,wallsend,33,61
+LT,visaginas,18,61
+IT,ventotene,16,60
+LT,šalčininkai,18,60
+SE,borås,29,60
+FI,suonenjoki,10,60
+RO,brasov,27,60
+SK,tren??n,31,60
+DE,leipzig,5,60
+ES,elda,9,60
+FR,terrou,11,60
+HU,komárom,13,60
+BG,���� ����,2,59
+BE,ham,1,59
+LT,rūdiškės,18,59
+ES,las palmas de gran canaria,9,59
+NL,schiedam,23,59
+BE,anderlecht,1,59
+UK,newry,33,59
+DE,hamburg,5,58
+LV,amatas novads,20,58
+HU,salg�tarj�n,13,58
+DE,ellrich,5,58
+SI,zagorje ob savi,30,58
+ES,almassora,9,58
+LT,daugirdiškės,18,58
+DE,konstanz,5,58
+FR,fossoy,11,58
+PL,poznań,25,58
+LV,kuld?ga,20,57
+IT,potenza,16,57
+IT,pescara,16,57
+RO,azuga,27,57
+RO,timișoara,27,57
+IT,cagliari,16,57
+UK,wakefield,33,57
+SK,myjava,31,57
+ES,mohernando,9,57
+FR,bourg en bresse,11,57
+DE,wernigerode,5,57
+NL,amersfoort,23,57
+DE,blankenburg,5,57
+DE,dessau-ro�lau,5,57
+ES,puig,9,56
+ES,naron a coruna,9,56
+ES,ceuta,9,56
+HU,heviz,13,56
+HU,b�kkszentkereszt,13,56
+TR,malatya,32,56
+BG,montana,2,56
+AT,judenburg,0,56
+ES,villaviciosa,9,56
+DE,gommern,5,56
+EL,alexandroupolis,8,56
+ES,"candas, asturias",9,56
+FR,le mans,11,56
+LU,schengen,19,56
+HU,�rhida,13,56
+PL,regimin,25,55
+FR,bois le roi,11,55
+HU,gyomaendrőd,13,55
+TR,battalgazi/ malatya,32,55
+SK,sečovce,31,55
+HR,otočac,12,55
+HU,kaposvár,13,55
+SE,malmo,29,55
+PL,bia�ystok,25,55
+CZ,kladno,4,55
+IT,roccalumera,16,55
+EE,t�ri,7,55
+TR,usak,32,54
+IT,pesaro,16,54
+ES,palma de mallorca,9,54
+TR,kocaeli,32,54
+DE,br?ssel,5,54
+SK,jarovnice,31,53
+IT,villafranca tirrena,16,53
+DE,ludwigsburg,5,53
+ES,armilla,9,53
+SE,uppsala,29,53
+ES,vilar de santos (ourense),9,53
+IT,ciampino,16,53
+UK,"bransgore, uk",33,53
+ES,peligros,9,53
+BG,pernik,2,52
+NO,kristiansand,24,52
+DE,merseburg,5,52
+FR,cluny,11,52
+BG,bansko,2,52
+BE,wichelen,1,52
+TR,alanya,32,52
+PL,j?drzej?w,25,52
+MT,attard,22,52
+CZ,frýdlant v čechách,4,52
+FR,arrent�s-de-corcieux,11,52
+RO,b?ile homorod,27,51
+PL,jastrz�bie-zdr�j,25,51
+RO,alba iulia,27,51
+UK,leicester,33,51
+FR,saint quentin,11,51
+FR,mulhouse,11,51
+TR,çorum,32,51
+HU,szombathely,13,51
+BE,belgrade,1,51
+FR,bagnères-de-bigorre,11,51
+AT,vienna,0,51
+ES,m�laga,9,51
+SK,martin,31,50
+DE,reinwarzhofen,5,50
+SK,krupina,31,50
+BG,kyustendil,2,50
+PL,malbork,25,50
+LT,šilalė,18,50
+BE,sint-joost-ten-noode,1,50
+FR,clermont ferrand,11,50
+ES,alborache,9,50
+RO,alesd,27,50
+EE,tapa,7,50
+HR,beli manastir,12,50
+IT,roccacasale,16,50
+AT,st. kanzian,0,49
+LV,"rembate, ķeguma novads",20,49
+FR,pierre la treiche,11,49
+SK,brezno,31,49
+PL,k�dzierzyn-ko�le,25,49
+ES,murcia,9,49
+IT,valdagno,16,49
+PL,miko��w,25,49
+TR,kutahya merkez,32,49
+DK,vordingborg,6,49
+BE,andenne,1,49
+BE,ingelmunster,1,49
+UK,swansea,33,49
+PT,vila nova de gaia,26,49
+IE,dublin 1,14,49
+FR,clergoux,11,48
+ES,palma del r�o,9,48
+DE,aschersleben,5,48
+DE,auma-weidatal,5,48
+CZ,jablonec nad nisou,4,48
+DE,bitterfeld,5,48
+ES,lorca,9,47
+IT,senigallia,16,47
+UK,chelmsford,33,47
+DE,berlin - kreuzberg,5,47
+DE,g�strow,5,47
+BE,evere,1,47
+HR,karlovac,12,47
+UK,conisbrough,33,47
+UK,sheffiled,33,47
+LT,radviliškis,18,47
+EL,chios,8,47
+IS,bifröst,15,47
+DK,s�nderborg,6,47
+IT,santorso,16,47
+BE,aarschot,1,47
+HR,varazdin,12,47
+AT,sankt marien,0,47
+LT,kupiškis,18,47
+PL,toru�,25,47
+PL,august�w,25,46
+CZ,opava,4,46
+TR,afyonkarahisar,32,46
+UK,merthyr tydfil,33,46
+PL,sukow,25,46
+TR,şişli,32,46
+DK,herning,6,46
+HU,kiskunhalas,13,46
+AT,niederneukirchen,0,46
+HR,"vela luka, kor�ula",12,46
+EE,p�rnu,7,46
+IT,celano,16,46
+MT,floriana,22,45
+BE,roeselare,1,45
+EL,nafplion,8,45
+BE,ninove,1,45
+PL,słupsk,25,45
+TR,i̇zmi̇r,32,45
+UK,wembley,33,45
+IT,schio vi,16,45
+ES,gines,9,45
+SK,terchová,31,45
+RO,predeal,27,45
+FR,saint helen,11,45
+NO,sarpsborg,24,45
+HR,zabok,12,45
+TR,manisa,32,45
+SE,solna,29,44
+FR,01000 bourg en bresse,11,44
+SI,galicija pri ?alcu,30,44
+PL,piotrków trybunalski,25,44
+ES,guijo de granadilla,9,44
+CZ,třeboň,4,44
+FI,espoo,10,44
+DE,berlin-wedding,5,44
+FR,saxon-sion,11,44
+PL,rybnik,25,44
+TR,artvin,32,44
+ES,alcoy,9,44
+DE,gudersleben,5,44
+DE,halle (saale),5,44
+HU,békéscsaba,13,43
+EE,merem�e k�la,7,43
+ES,marmolejo,9,43
+IS,reykjavik,15,43
+AT,klagenfurt am wörthersee,0,43
+EE,sillamäe,7,43
+PL,bełchatów,25,43
+MK,strumica,21,43
+SK,tren�ianske teplice,31,43
+UK,plymouth,33,43
+HU,szekszárd,13,43
+FR,treffort-cuisiat - 01,11,43
+FR,poitiers,11,43
+PL,s�awk�w,25,42
+RO,buhusi,27,42
+RO,slănic moldova,27,42
+MK,stip,21,42
+BG,karlovo,2,42
+NL,nijmegen,23,42
+FR,montbrison (42),11,42
+DE,flecken-zechlin,5,42
+CZ,kutná hora,4,42
+HU,balatonbogl�r,13,42
+RO,cluj napoca,27,42
+BE,tielt,1,42
+NL,zwolle,23,42
+SE,malmö,29,42
+LT,biržai,18,42
+BE,lille,1,42
+LT,rokiškis,18,42
+EE,tabivere,7,42
+IS,grindavík,15,42
+UK,"bransgore, hampshire",33,42
+DK,valby,6,42
+AT,furth bei göttweig,0,42
+PL,dlugosiodlo,25,41
+IT,latina,16,41
+BE,beernem,1,41
+PL,wejherowo,25,41
+LT,švenčionys,18,41
+AT,hirtenberg,0,41
+IE,letterkenny,14,41
+BG,ардино,2,41
+BG,sliven,2,41
+FR,batz sur mer,11,41
+DE,wolmirstedt,5,41
+BG,драгоман,2,40
+HU,felsőtárkány,13,40
+SK,levice,31,40
+PL,jedrzejow,25,40
+LV,vecpiebalgas novads,20,40
+CZ,ceske budejovice,4,40
+IT,grassano,16,40
+FR,vidaillat - 23250,11,40
+PT,vila do conde,26,40
+FI,pori,10,40
+ES,malaga,9,40
+HR,sveta nedelja,12,40
+HR,stubičke toplice,12,40
+LV,jaunpiebalgas novads,20,40
+RO,eselnita,27,40
+LT,nemėžis,18,40
+IE,cork,14,40
+DK,n�rresundby,6,40
+IE,an rinn,14,39
+LV,rauna,20,39
+RO,podu turcului,27,39
+FR,bédarieux,11,39
+ES,hondarribia,9,39
+IT,bari,16,39
+SI,sti�na,30,39
+DE,dusseldorf,5,39
+LV,dobele,20,39
+ES,antigua (fuerteventura),9,39
+SI,ajdov��ina,30,39
+IS,akureyri,15,39
+BE,lokeren,1,39
+IT,molfetta,16,39
+PT,4784-909 santo tirso,26,39
+BG,момчилград,2,39
+SE,umeå,29,39
+CZ,beroun,4,39
+SI,kranj,30,39
+RO,izvoru muresului,27,39
+PL,os?wek,25,39
+PT,santo tirso,26,39
+UK,wrexham,33,39
+FR,villereversure (01),11,38
+DE,reudnitz,5,38
+HU,páty,13,38
+PL,oborniki �l�skie,25,38
+PT,alter do chao,26,38
+PT,lisbon,26,38
+IT,matera,16,38
+IT,menaggio,16,38
+RO,horezu,27,38
+TR,ku�adas�,32,38
+ES,orihuela,9,38
+HU,hollókő,13,38
+CZ,tišnov,4,38
+ES,villaca�as,9,38
+UK,northallerton,33,38
+UK,scunthorpe,33,38
+ES,almagro,9,37
+MT,st. paul`s bay,22,37
+FR,grenoble,11,37
+BG,девин,2,37
+RO,targu jiu,27,37
+RO,bucarest,27,37
+CZ,ústí nad labem,4,37
+ES,gran canaria,9,37
+UK,amersham,33,37
+EE,kohila,7,37
+LV,līgatne,20,37
+UK,sefton,33,37
+PL,d�bica,25,37
+BG,варвара,2,37
+HU,zalabér,13,37
+MK,ohrid,21,37
+LT,telšiai,18,37
+IE,tullamore,14,37
+SK,hanušovce nad topľou,31,37
+SI,koper,30,36
+PL,chojnice,25,36
+RO,bacău,27,36
+FR,la-teste-de-buch,11,36
+PL,z�oty potok,25,36
+DE,heidelberg,5,36
+EE,pärnu,7,36
+DE,schwanebeck,5,36
+DK,copenhagen,6,36
+LT,plateliai,18,36
+SK,�adca,31,36
+TR,u?ak,32,36
+IT,pellezzano,16,36
+SI,lendava,30,36
+TR,kastamonu,32,36
+BE,antwerpen,1,36
+DE,heilbronn,5,36
+CZ,pardubice,4,36
+FR,sion,11,36
+TR,trabzon,32,36
+BE,erpe-mere,1,35
+CY,paralimni,3,35
+IT,santarcangelo di romagna,16,35
+BG,крумовград,2,35
+NL,oss,23,35
+LT,pakruojis,18,35
+ES,logrono,9,35
+NO,stavanger,24,35
+IT,alezio (lecce),16,35
+FR,dinan,11,35
+RO,piatra neamt,27,35
+ES,albacete,9,35
+HR,viškovo,12,35
+FR,nancy,11,35
+FR,pessac,11,35
+CZ,boskovice,4,35
+HR,vodice,12,35
+SI,murska sobota,30,35
+UK,treforest,33,35
+PL,czelad?,25,34
+BE,bruselas,1,34
+ES,badajoz,9,34
+DE,sche�litz,5,34
+PT,paredes de coura,26,34
+SK,zázriva,31,34
+UK,carlingford,33,34
+DE,ulm,5,34
+FR,azay-le-ferron (36290),11,34
+EE,vihasoo,7,34
+BG,veliko turnovo,2,34
+RO,dabuleni,27,34
+PL,jastrzebie-zdrój,25,34
+DE,ro�lau,5,34
+LV,stalbe,20,34
+FR,marcilly le chatel 42,11,34
+ES,a ba�a,9,34
+ES,donostia,9,34
+NL,middelburg,23,34
+EL,κομοτηνη,8,34
+CY,strovolos,3,33
+BG,панагюрище,2,33
+TR,düzce,32,33
+SK,�urany,31,33
+BG,чавдар,2,33
+HR,vrpolje,12,33
+MK,kumanovo,21,33
+BE,dendermonde,1,33
+DK,roenne,6,33
+SK,ru�omberok,31,33
+CZ,staré hamry,4,33
+CZ,hodonín,4,33
+HU,gyomaendr�d,13,33
+NO,molde,24,33
+TR,yozgat,32,33
+TR,çankaya,32,33
+RO,miercurea ciuc,27,33
+DE,flecken zechlin,5,33
+HU,tatabánya,13,33
+EE,ilmatsalu,7,33
+DK,r�nne,6,33
+BG,petrich,2,32
+FR,trouville,11,32
+EE,elva,7,32
+DE,feriendorf dorado brandenburg bei berlin eiserbuder weg 12  16348 marienwerder/ ot ruhlsdorf,5,32
+AT,kaprun,0,32
+ES,huetor vega,9,32
+AT,neumarkt,0,32
+ES,cullar vega,9,32
+IE,dublin 11,14,32
+EL,alexandroupoli,8,32
+SK,rimavská sobota,31,32
+EL,heraclion,8,32
+DE,mainz,5,32
+TR,şanlıurfa,32,32
+ES,tama,9,32
+PT,foz c�a,26,32
+SK,hronec,31,32
+HR,opatija,12,32
+PL,chorz?w,25,32
+BG,благоевград,2,32
+HU,p?cs,13,32
+DE,duderstadt,5,32
+PL,d?browa g?rnicza,25,32
+MK,gostivar,21,32
+RO,giurgita,27,32
+FR,limoges,11,32
+HU,orosháza,13,31
+DE,lindau,5,31
+NL,orvelte,23,31
+LT,kirkšnovė,18,31
+DE,ronneburg,5,31
+LV,prei?i,20,31
+ES,milladoiro � ames,9,31
+FR,fort-de-france,11,31
+FR,douai,11,31
+FR,saint-omer,11,31
+PL,dobromierz,25,31
+BG,етрополе,2,31
+FR,morlaix,11,31
+DE,karlsruhe,5,31
+BE,sint-katelijne-waver,1,31
+DE,t?bingen,5,31
+PL,mys?owice,25,31
+HU,nyiregyháza,13,31
+LV,valka,20,31
+PL,budy lucie�skie,25,31
+BG,царево,2,31
+SK,p�chov,31,31
+EE,?nkk?la,7,30
+TR,samsun,32,30
+PL,gda?sk,25,30
+HR,po�ega,12,30
+NO,rygge,24,30
+IT,torre del greco,16,30
+DE,unna,5,30
+BG,джебел,2,30
+LT,pabradė,18,30
+SK,bansk? bystrica,31,30
+FR,fresnes,11,30
+IT,reggio calabria,16,30
+MT,rabat,22,30
+DE,bergen auf ruegen,5,30
+RO,caracal,27,30
+LV,�ekava,20,30
+PL,tarnowskie g?ry,25,30
+PT,portim?o,26,30
+NL,alphen ad rijn,23,30
+RO,novaci,27,30
+IT,cornedo vicentino vi,16,30
+DE,laatzen,5,30
+DE,emden,5,30
+CZ,moravský krumlov,4,29
+PT,viana do castelo,26,29
+EE,mustvee,7,29
+SI,ljutomer,30,29
+LV,ludza,20,29
+PT,guarda,26,29
+CZ,prostějov,4,29
+ES,fuerteventura,9,29
+CZ,vyškov,4,29
+BE,temse,1,29
+ES,benidorm,9,29
+LI,ruggell,17,29
+SI,vojnik,30,29
+EL,aigio,8,29
+EE,tammispea,7,29
+FR,puylaurens,11,29
+EE,�nkk�la k�la,7,29
+LV,dagda,20,29
+AT,pottenstein,0,29
+TR,di̇yarbakir,32,28
+PL,krasne d�usko,25,28
+IT,mantova,16,28
+CZ,karlovy vary,4,28
+ES,fornillos de aliste,9,28
+IE,leenaun,14,28
+CZ,slavkov u brna,4,28
+RO,satu mare,27,28
+SK,vrútky,31,28
+FR,angers 49000,11,28
+DE,d�sseldorf,5,28
+ES,nava,9,28
+SI,kr�ko,30,28
+FR,evry centre essonne cedex,11,28
+HU,aba,13,28
+ES,puente genil,9,28
+CZ,mikulov,4,28
+PT,ponte de lima,26,28
+RO,roman,27,28
+SI,bohinj,30,28
+MK,gevgelija,21,28
+ES,purchena,9,28
+MK,tetovo,21,28
+PL,nowy s�cz,25,28
+ES,aguimes,9,28
+SK,ru?omberok,31,28
+FR,le passage d'agen,11,28
+CZ,povrly,4,28
+ES,quart de poblet,9,27
+BE,schoten,1,27
+LT,ignalina,18,27
+LV,k?rsava,20,27
+IE,dublin 2,14,27
+DE,kehl,5,27
+ES,teulada,9,27
+FR,gennevilliers,11,27
+CZ,kolín,4,27
+SK,svidnik,31,27
+EE,t�rva,7,27
+FR,verneuil-sur-seine,11,27
+PL,rzeszow,25,27
+EE,"padise, harjumaa",7,27
+IT,perugia,16,27
+ES,benicarl�,9,27
+BG,велико търново,2,27
+LT,pasvalys,18,27
+IT,nocera superiore,16,27
+AT,lustenau,0,27
+IT,varese,16,27
+TR,nevşehi̇r,32,27
+ES,la palma del condado,9,27
+IT,eboli (sa),16,27
+DE,berlin - wannsee,5,26
+CZ,znojmo,4,26
+IS,reykjav�k,15,26
+IT,brindisi,16,26
+IT,cassino,16,26
+PL,be�chat�w,25,26
+NL,ams,23,26
+HU,pusztavacs,13,26
+DE,straußberg,5,26
+ES,santiba�ez de la zarzaguda (burgos),9,26
+HR,bedekov�ina,12,26
+ES,colunga,9,26
+PL,prudnik,25,26
+RO,zalau,27,26
+SK,humenn�,31,26
+FR,argelès-gazost,11,26
+FR,aventignan,11,26
+PL,strzelno,25,26
+PL,turawa,25,26
+PL,lębork,25,26
+PL,zloty potok,25,26
+RO,constanța,27,26
+SK,mal� frankov�,31,26
+FR,b�nodet,11,26
+FR,riberac,11,26
+FR,corte,11,26
+SK,poprad,31,26
+DE,k�ln,5,26
+SE,alingsas,29,26
+SK,cífer,31,26
+SI,oplotnica,30,26
+UK,llangrannog,33,26
+DE,veckenstedt,5,26
+ES,poza de la sal (burgos),9,26
+ES,torremolinos,9,25
+DE,berlin - friedrichshain,5,25
+HR,konjščina,12,25
+DE,aspach,5,25
+LT,skuodas,18,25
+PL,wieszczyna,25,25
+RO,copalnic manastur,27,25
+PL,zielona gora,25,25
+IE,thurles,14,25
+HU,pannonhalma,13,25
+BE,essen,1,25
+HU,hollóháza,13,25
+PT,ericeira,26,25
+IT,orta nova,16,25
+DE,bad malente,5,25
+LT,akmenė,18,25
+ES,darro,9,25
+FR,locmin? - 56,11,25
+FR,67730 la vancelle,11,25
+FR,albi,11,25
+AT,tamsweg,0,25
+SK,humenne,31,25
+LT,molėtai,18,25
+LV,balvi,20,25
+SI,idrija,30,25
+CZ,český těšín,4,25
+HU,biatorbágy,13,25
+SI,hoče,30,25
+ES,padul,9,25
+LV,jelgava,20,25
+IT,taviano,16,25
+TR,i̇skenderun,32,25
+NO,arendal,24,25
+PL,olsztyn,25,25
+PL,ciechanów,25,25
+IT,genova,16,25
+HR,pirovac,12,25
+DE,duisburg,5,25
+LT,šakiai,18,25
+PT,vila nova de famalic�o e viana do castelo,26,25
+PL,k�obuck,25,25
+ES,valencia de alc�ntara,9,24
+SK,piešťany,31,24
+ES,elche,9,24
+SI,domžale,30,24
+ES,vega de espinareda (le�n),9,24
+SK,doln? smokovec,31,24
+SI,šentjur,30,24
+RO,odorheiu secuiesc,27,24
+RO,capreni,27,24
+BG,копривщица,2,24
+DE,bad boll,5,24
+UK,cheshunt,33,24
+HU,balatonboglár,13,24
+HR,sikirevci,12,24
+HR,oroslavje,12,24
+NO,marnardal,24,24
+DE,remscheid,5,24
+CY,agros,3,24
+HR,jesenje,12,24
+EE,sillam�e,7,24
+PL,baryslawice koscielne,25,24
+SK,turany,31,24
+NO,killingholmen,24,24
+FR,nice,11,24
+ES,cadiar,9,24
+SI,�rna na koro�kem,30,24
+SK,topo��any,31,24
+HU,domasz�k,13,24
+HU,f�lde�k,13,23
+LV,jaunpils,20,23
+DE,berlin - lichtenberg,5,23
+AT,salzburg stadt,0,23
+PL,cewice,25,23
+CZ,horka nad moravou,4,23
+PL,malczyce,25,23
+CZ,hranice v čechách,4,23
+CZ,kroměříž,4,23
+UK,nantymoel,33,23
+DE,berlin - grunewald,5,23
+NL,"st. peters, philipsburg",23,23
+DE,16818 gnewikow / neuruppin,5,23
+DE,berlin mitte,5,23
+LV,kandava,20,23
+IT,iseo,16,23
+HU,t�s,13,23
+BE,brüssel,1,23
+CZ,radvanice v čechách,4,23
+BG,пирдоп,2,23
+FR,saint-loubès,11,23
+LV,r?zekne,20,23
+PL,tarnow,25,23
+EL,patra,8,23
+SK,ro��ava,31,23
+SE,ekeby,29,23
+SE,värnamo,29,23
+EL,petroupoli,8,22
+EE,r�uge,7,22
+SK,čadca,31,22
+TR,isparta,32,22
+TR,teki̇rdağ,32,22
+ES,huelva,9,22
+DE,oldenburg,5,22
+ES,bolanos de calatrava,9,22
+TR,gi̇resun,32,22
+DE,bad liebenzell,5,22
+IT,modena,16,22
+ES,jerte,9,22
+FR,les cammazes,11,22
+FR,saint-etienne,11,22
+DE,daun,5,22
+LV,r�ga,20,22
+PL,siemianowice �l�skie,25,22
+RO,rucar,27,22
+HU,szegv�r,13,22
+FR,donneville,11,22
+PL,kielkowice,25,22
+FR,loos,11,22
+PL,bielsko-bia�a,25,22
+CZ,nymburk,4,22
+SI,borovnica,30,22
+DE,bottrop,5,22
+ES,zamora,9,22
+DE,bodensee,5,22
+PT,s. pedro do sul,26,22
+LU,weicherdange,19,22
+MK,krivogashtani,21,22
+SI,naklo,30,22
+FR,nort-sur-erde - 44,11,22
+PL,wisznice,25,22
+PL,cieszyn,25,22
+HU,balassagyarmat,13,22
+BG,�������,2,21
+BE,arlon,1,21
+PL,skar�ysko-kamienna,25,21
+AT,st. salvator,0,21
+SI,�mihel-novo mesto,30,21
+PL,mława,25,21
+NO,mandal,24,21
+HU,mezőkövesd,13,21
+HU,makó,13,21
+PL,konstancin-jeziorna,25,21
+HU,csesznek,13,21
+UK,bettws,33,21
+IT,valdagno vi,16,21
+AT,leobersdorf,0,21
+UK,llwynypia,33,21
+PL,bydgoszcz,25,21
+AT,berndorf,0,21
+PL,d�browa g�rnicza,25,21
+CZ,dvůr králové nad labem,4,21
+PT,guimar�es,26,21
+DE,berlin - mitte,5,21
+BG,haskovo,2,21
+LT,šilutė,18,21
+LV,al?ksne,20,21
+ES,pamplona,9,21
+SK,handlov?,31,21
+SK,handlova,31,21
+ES,medina del campo,9,21
+LT,ukmergė,18,21
+LV,kr?slava,20,21
+FR,60120 rouvroy les merles,11,21
+RO,reghin,27,21
+FR,arras,11,21
+HU,h�dmez�v�s�rhely,13,21
+SK,stupava,31,21
+SK,trebi�ov,31,21
+LV,sala,20,21
+HU,zalaszentgrót,13,21
+PT,t�bua,26,21
+LV,rujiena,20,21
+SI,gornja radgona,30,20
+SI,šempeter pri gorici,30,20
+SK,detva,31,20
+SI,logatec,30,20
+LT,"jadagonių k., kauno raj.",18,20
+PT,santar�m,26,20
+SK,šturovo,31,20
+UK,dagenham,33,20
+UK,conisborugh,33,20
+SK,levoča,31,20
+CZ,vsetin,4,20
+TR,uşak,32,20
+SK,handlová,31,20
+BG,stara zagora,2,20
+SI,bled,30,20
+PL,�migr�d,25,20
+AT,oberndorf an der melk,0,20
+PL,rzesz�w,25,20
+PL,lubniewice,25,20
+CZ,děčín,4,20
+UK,ystrad mynach,33,20
+DE,wuppertal,5,20
+FR,angouleme,11,20
+HU,pilismarót,13,20
+FR,villepinte,11,20
+ES,astudillo,9,20
+ES,benicassim,9,20
+HU,nagyoroszi,13,20
+IT,sassari,16,20
+HR,rab,12,20
+ES,durcal,9,20
+DE,villingen-schwenningen,5,20
+ES,guia de isora,9,20
+HU,algy�,13,20
+FR,niort,11,20
+FR,pouzols,11,20
+LV,līvāni,20,19
+UK,eastbourne,33,19
+TR,eski?ehir,32,19
+CZ,třebíč,4,19
+FR,strasburk,11,19
+EL,aspropirgos,8,19
+TR,karaman,32,19
+FR,pau,11,19
+LV,talsi,20,19
+FR,azay-le-ferron - 36,11,19
+LV,smiltene,20,19
+DE,halle,5,19
+EL,ioannina,8,19
+AT,kronstorf,0,19
+PL,ustrzyki dolne,25,19
+LV,jumprava,20,19
+TR,diyarbak?r,32,19
+HU,gilvánfa,13,19
+PL,murowana goślina,25,19
+SI,se�ana,30,19
+PL,ostrowiec �wi�tokrzyski,25,19
+SI,ravne na koro�kem,30,19
+SK,kysucke nove mesto,31,19
+PL,gdynia,25,19
+ES,vigo,9,19
+ES,vila-real,9,19
+HU,pécs,13,19
+BE,lanaken,1,19
+SK,spišská sobota,31,19
+HR,koprivnica,12,19
+HU,mosonmagyar�v�r,13,19
+SK,vranov nad top?ou,31,19
+BG,������ ���,2,19
+FR,montalembert,11,19
+SK,žiar nad hronom,31,19
+BE,genk,1,19
+FR,les karellis,11,19
+LT,požerūnai,18,19
+LT,girkalnis,18,19
+DE,volkmarsen,5,18
+NO,gulsrud,24,18
+BG,dimitrovgrad,2,18
+UK,craygavon,33,18
+MK,grad skopje,21,18
+NL,wijchen,23,18
+SK,komárno,31,18
+ES,venta del moro,9,18
+FR,polliat (01),11,18
+PL,zalecze wielkie,25,18
+FR,lodéve,11,18
+DE,neuendorf,5,18
+UK,bradford,33,18
+PL,kalsk,25,18
+LV,lēdmane,20,18
+PL,zygry,25,18
+SK,skalica,31,18
+UK,barking,33,18
+FR,agen,11,18
+LV,tukums,20,18
+UK,abbeywood,33,18
+DE,dorf mecklenburg,5,18
+CZ,poděbrady,4,18
+SK,rožňava,31,18
+PL,boryslawice koscielne,25,18
+ES,islantilla,9,18
+PL,ryn,25,18
+PL,lanckorona,25,18
+FR,haussonville - 54256,11,18
+IT,follonica,16,18
+NL,eindhoven,23,18
+HU,soponya,13,18
+EL,komotini,8,18
+HU,csongrád,13,18
+BE,florenville,1,18
+DE,berlin - marzahn,5,18
+PL,murzasichle,25,18
+ES,sant joan d'alacant,9,18
+BG,yambol,2,18
+LT,latakučiai,18,18
+ES,paterna,9,18
+UK,glan llyn,33,18
+SK,ždaňa,31,18
+UK,southampton,33,18
+ES,montijo,9,18
+AT,bad aussee,0,18
+RO,sinpaul,27,18
+FR,combeaufontaine - 70,11,18
+LV,staicele,20,17
+SK,rimavsk� sobota,31,17
+PL,sierpc,25,17
+CZ,pribram,4,17
+DE,herne,5,17
+MT,verdala palace,22,17
+ES,avil�s,9,17
+MK,"centar, skopje",21,17
+FR,mane,11,17
+LT,kulionys,18,17
+TR,tokat,32,17
+ES,caceres,9,17
+FI,hämeenlinna,10,17
+PL,wis�a,25,17
+CZ,česká lípa,4,17
+EE,p�lva linn,7,17
+DE,niedersachswerfen,5,17
+FR,seynod (74),11,17
+PL,�ywiec,25,17
+PL,w�lka smolana,25,17
+FR,belle-ile,11,17
+BG,ивайловград,2,17
+MT,marsaskala,22,17
+HU,győrújbarát,13,17
+IE,waterford,14,17
+PL,lubichowo,25,17
+SK,hanu?ovce nad top?ou,31,17
+HU,buda?rs,13,17
+PL,piszczac,25,17
+BE,ixelles,1,17
+LV,j?kabpils,20,17
+HU,bord�ny,13,17
+DE,glashagen,5,17
+HR,varaždin,12,17
+HU,bordány,13,17
+PL,przasnysz,25,17
+PT,esmoriz,26,17
+HU,gyomaendr?d,13,17
+LV,priekule,20,17
+HU,j�szkarajen�,13,17
+EE,k�rdla,7,17
+IE,balbriggan,14,17
+ES,torre de piles,9,17
+DE,wiesbaden,5,17
+UK,halifax,33,17
+ES,villanueva mesia,9,17
+RO,cluj-napoca (kolozsvár),27,17
+LT,radviliskis,18,17
+PL,trojaczkowice,25,16
+PL,minsk mazowiecki,25,16
+SK,galanta,31,16
+NL,malden,23,16
+RO,ardeoani,27,16
+HU,piliny,13,16
+SK,bansk? ?tiavnica,31,16
+RO,varbilau,27,16
+PL,micha�owo,25,16
+SI,la�ko,30,16
+CZ,mělník,4,16
+PT,�vora,26,16
+PL,biala podlaska,25,16
+HU,kazincbarcika,13,16
+SK,pre?ov,31,16
+DE,dietmannsried,5,16
+HR,slavonski brod,12,16
+CZ,krnov,4,16
+ES,el torno,9,16
+PL,kolonia szczercowska,25,16
+UK,woolwich,33,16
+LT,giedraičiai,18,16
+DE,heidenheim,5,16
+HU,keszthely,13,16
+PL,pomigacze,25,16
+SK,zborov,31,16
+AT,bad vöslau,0,16
+TR,adiyaman,32,16
+CZ,turnov,4,16
+EE,remniku,7,16
+FR,norrent fontes - 62,11,16
+PL,wodzis�aw �l�ski,25,16
+EE,kloogaranna,7,16
+PL,zajezierze,25,16
+UK,cookstown,33,16
+FR,clermont-ferrand,11,16
+FR,moncontour,11,16
+EE,viimsi,7,16
+CZ,třebenice,4,16
+LV,l�gatne,20,16
+TR,kırıkkale,32,16
+FR,bagnères de bigorre,11,16
+LV,olaine,20,15
+LT,kartena,18,15
+PL,czersk,25,15
+HU,hont,13,15
+PL,ustro�,25,15
+MK,gjorche petrov-skopje,21,15
+FR,sainte-foy-l�argenti�re,11,15
+DE,"kirschallee, 16837 rheinsberg",5,15
+AT,kematen an der krems,0,15
+LI,schaan,17,15
+SK,spišské tomašovce,31,15
+EE,meelva k�la,7,15
+LT,jomantai,18,15
+RO,boldesti-scaeni,27,15
+HU,bátonyterenye,13,15
+BE,charleroi,1,15
+LT,vištytis,18,15
+DE,hirschluch,5,15
+PL,tarnów,25,15
+SK,krásno nad kysucou,31,15
+PT,valen�a,26,15
+PL,nak�o �l�skie,25,15
+TR,deni̇zli̇,32,15
+FR,pontarlier 25300,11,15
+HU,f�le,13,15
+PL,jastrz�bia g�ra,25,15
+EE,j�geva,7,15
+FR,begles,11,15
+CZ,brandýs nad labem,4,15
+ES,castellón de la plana,9,15
+AT,st.marien,0,15
+TR,giresun,32,15
+ES,el roc�o (almonte),9,15
+PT,torres vedras,26,15
+FR,escatalens,11,15
+FR,massaguel,11,15
+AT,leonding,0,15
+LT,mukuliai,18,14
+HU,v�rv�lgy,13,14
+DK,kastrup,6,14
+DE,uelzen,5,14
+LT,mažeikiai,18,14
+LT,naujoji akmenė,18,14
+HU,z�k�nysz�k,13,14
+RO,constanta,27,14
+PL,jaroszowiec,25,14
+HU,kisköre,13,14
+LV,glāžšķūnis,20,14
+PL,piotrkow trybunalski,25,14
+TR,diyarbakır,32,14
+LV,loja,20,14
+CZ,robousy,4,14
+SI,semi�,30,14
+HU,liget,13,14
+HU,veresegyház,13,14
+DE,frankfurt am main,5,14
+LT,kūlupėnai,18,14
+CZ,prague,4,14
+RO,vultureni,27,14
+DE,osnabr�ck,5,14
+TR,?zmir,32,14
+EE,v�iko-h�rm�,7,14
+BE,oostende,1,14
+RO,sfantu gheorghe,27,14
+ES,ontinyent,9,14
+IT,atri,16,14
+TR,mu?,32,14
+PL,stęszew,25,14
+IE,kippure,14,14
+PL,oświęcim,25,14
+ES,bérchules,9,14
+DE,berlin - neuk�lln,5,14
+SK,topolčany,31,14
+MK,debar,21,14
+DE,grovesm�hle,5,13
+HR,vinkovci,12,13
+LT,žiežmariai,18,13
+PL,nowy targ,25,13
+PL,myszk�w,25,13
+LT,agluonėnai,18,13
+IT,isernia,16,13
+IT,"genova, rivarolo",16,13
+IE,trim,14,13
+SI,ro?inj,30,13
+LT,prienai,18,13
+ES,san juan de aznalfarache,9,13
+RO,darmanesti,27,13
+DE,joachimsthal,5,13
+DE,frankfurt,5,13
+UK,ipswich,33,13
+DE,appenrode,5,13
+PL,j�drzej�w,25,13
+CZ,třinec,4,13
+SI,sevnica,30,13
+RO,filipeni,27,13
+RO,onești,27,13
+PL,grudnia wielka,25,13
+BE,aubagne,1,13
+FR,abbeville,11,13
+HU,monostorap�ti,13,13
+FR,luxembourg,11,13
+DE,n�renburg,5,13
+PL,sułoszowa,25,13
+MK,krushevo,21,13
+UK,sussex,33,13
+SI,ajdov??ina,30,13
+PL,sędziszów małopolski,25,13
+TR,kayseri,32,13
+HR,dubrovnik,12,13
+MK,shuto orizari,21,13
+ES,alacant,9,13
+LT,kunioniai,18,13
+NL,alphen aan den rijn,23,13
+CZ,orlová,4,13
+RO,targoviste,27,13
+PL,turosn koscielna,25,13
+CZ,petrovice,4,13
+RO,targu mures,27,13
+DK,kobenhavn,6,13
+DE,"bismarckstra�e 70, 14109 berlin",5,13
+IE,"enniskerry, co wicklow",14,13
+LV,krāslava,20,13
+LV,more,20,13
+BG,минерални бани,2,13
+PL,sobk�w,25,13
+SK,raková,31,13
+FR,annecy,11,13
+HR,"njivice, krk",12,13
+PL,rajgr�d,25,13
+RO,racova,27,13
+SK,liptovsk? mikul?,31,13
+PL,skwierzyna,25,13
+CZ,kutna hora,4,13
+FR,bruxelles,11,13
+SI,izola,30,13
+FR,meaux,11,12
+FR,perigueux,11,12
+PL,nowy sącz,25,12
+RO,boldești scăieni,27,12
+FR,rieux volvestre,11,12
+PL,puszczykowo,25,12
+SI,levpa,30,12
+RO,plopana,27,12
+SI,deskle,30,12
+SI,ren�e -vogrsko,30,12
+RO,răchitoasa,27,12
+RO,ghimeș-făget,27,12
+FR,stra�bourg,11,12
+FR,hergnies,11,12
+ES,coria del r�o,9,12
+HU,hont / kútberek,13,12
+LT,jurbarkas,18,12
+ES,benicàssim,9,12
+DE,mohlsdorf-teichwolframsdorf,5,12
+HU,mátraverebély,13,12
+IE,limerick,14,12
+SK,levo�a,31,12
+TR,muş,32,12
+HU,nagyv�zsony,13,12
+SK,topoľčany,31,12
+DE,"schwedter str. 232, 10435 berlin",5,12
+CZ,trinec,4,12
+ES,mairena del aljarafe,9,12
+LT,grūšlaukė,18,12
+SK,nový smokovec,31,12
+HU,balaton,13,12
+HU,martonvásár,13,12
+DE,"schleusenstra�e 50, 15569 woltersdorf",5,12
+IT,milano,16,12
+DE,werftpfuhl,5,12
+DE,winnenden,5,12
+SK,dolný kubín,31,12
+ES,puebla de obando,9,12
+TR,çankırı,32,12
+HU,balmaz�jv�ros,13,12
+EE,kohtla-järve,7,12
+TR,�zmir,32,12
+FI,anjala,10,11
+ES,campotejar,9,11
+EE,pivarootsi k�la,7,11
+TR,sirnak,32,11
+PL,swarzędz,25,11
+RO,sat izvoarele,27,11
+SK,trenčin,31,11
+DE,greiz-pohlitz,5,11
+IE,carlow,14,11
+IE,tralee,14,11
+AT,hartberg,0,11
+HU,sármellék,13,11
+DE,paderborn,5,11
+FR,benoite vaux,11,11
+AT,voitsberg,0,11
+DE,eiserbuder weg 12 16348 marienwerder / ot ruhlsdorf,5,11
+SK,snina,31,11
+PL,bochnia,25,11
+DE,auma,5,11
+PL,januszkowo,25,11
+HU,balatonföldvár,13,11
+SI,tolmin,30,11
+UK,bath,33,11
+LT,elektrėnai,18,11
+IE,ballina,14,11
+LT,gražiškiai,18,11
+SI,postojna,30,11
+HU,�rtilos,13,11
+PL,poronin,25,11
+HR,mali lo�inj,12,11
+ES,hinojos,9,11
+PL,por�ba,25,11
+DE,schw?bisch hall,5,11
+DE,weissach,5,11
+PL,d�browa bia�ostocka,25,11
+HU,kistelek,13,11
+MT,dingli,22,11
+HU,zalaegerszeg,13,11
+DE,munich,5,11
+PL,wolka goscieradowska,25,10
+MK,gazi baba-skopje,21,10
+PL,łąg,25,10
+LV,centrs,20,10
+UK,lisburn,33,10
+FR,talence,11,10
+DE,berlin-kreuzberg,5,10
+FR,sainte-foy l'argenti�re,11,10
+HU,városlőd,13,10
+RO,tamași,27,10
+RO,odobesti,27,10
+SI,trbovlje,30,10
+PL,samborzec,25,10
+AT,enzesfeld,0,10
+SK,banska štiavnica,31,10
+HU,buda�rs,13,10
+ES,navalmoral de la mata,9,10
+DE,ludwigshafen,5,10
+HR,zabok/donja stubica,12,10
+PL,podd?bice,25,10
+BG,veliko tarnovo,2,10
+LT,jokūbavas,18,10
+SK,malacky,31,10
+CZ,kamyk nad vltavou,4,10
+FR,long,11,10
+MT,knż office,22,10
+LT,lazdijai,18,10
+RO,malureni,27,10
+UK,newport np20 2bp,33,10
+HU,ny?regyh?za,13,10
+HR,bjelovar,12,10
+DE,berlin-mitte,5,10
+DE,bad köstritz,5,10
+HU,p?szt?,13,10
+DE,halsbach,5,10
+FR,12 rodez,11,10
+UK,newport np20 2gh,33,10
+DE,b?hl,5,9
+LT,"baubliai, kretingos rajonas",18,9
+AT,leibnitz,0,9
+IE,"ferns, wexford",14,9
+DE,anklam,5,9
+AT,gleisdorf,0,9
+UK,pontypool np4 5yg,33,9
+DE,schwandorf,5,9
+FR,mancieulles,11,9
+FR,bagnéres de bigorre,11,9
+IT,quartu santelena,16,9
+AT,feldbach,0,9
+MK,negotino,21,9
+FR,pézenas,11,9
+ES,cazalla de la sierra,9,9
+HU,p�cs,13,9
+DE,berlin-wannsee,5,9
+RO,vîlcănești,27,9
+NO,bergen,24,9
+NO,moss,24,9
+ES,calpe,9,9
+ES,castell�n,9,9
+HU,kurd,13,9
+BE,st. vith,1,9
+LT,ariogala,18,9
+SK,piestany,31,9
+PL,gr�dek,25,9
+PL,jaworzno,25,9
+DE,hildburgshausen,5,9
+HU,börzsönyliget,13,9
+CZ,dolní studénky,4,9
+HU,r�ckeve,13,9
+HU,nyiregyh�za,13,9
+HU,kistokaj,13,9
+EE,k�smu,7,9
+AT,murau,0,9
+EE,nõo,7,9
+EE,rapla,7,9
+EE,r�pina,7,9
+HU,tata,13,9
+DE,engen,5,9
+RO,măneciu pământeni,27,9
+RO,solont,27,9
+SK,považská bystrica,31,8
+AT,krems,0,8
+TR,çanakkale,32,8
+DE,kleinreinsdorf,5,8
+AT,bad gleichenberg,0,8
+BE,châtelet,1,8
+RO,moinesti,27,8
+ES,tocina-los rosales,9,8
+EE,loksa,7,8
+DE,pforzheim,5,8
+DE,westernohe,5,8
+UK,oxford,33,8
+RO,chiajna,27,8
+FI,naantali,10,8
+UK,north down,33,8
+ES,avila,9,8
+UK,newtownabbey,33,8
+RO,marisel,27,8
+EE,võru,7,8
+AT,st.p�lten,0,8
+AT,kottingbrunn,0,8
+BG,sofiq,2,8
+PL,sucha beskidzka,25,8
+HU,tisza?jv?ros,13,8
+CZ,havirov,4,8
+DE,eiserbuder weg 12 16348 marienwerder,5,8
+PL,bystrzyca k�odzka,25,8
+DE,freiburg,5,8
+HU,ikervár,13,8
+PL,lubliniec,25,8
+PL,wronki,25,8
+LT,pagėgiai,18,8
+PL,suwa�ki,25,8
+HU,mezőkovácsháza,13,8
+HU,j?szber?ny,13,8
+MK,kichevo,21,8
+HR,krapina,12,8
+CZ,litovel,4,8
+FR,roye,11,8
+LV,rīga,20,8
+UK,margam park,33,7
+RO,oncesti,27,7
+FR,annecy (74),11,7
+SK,partizanske,31,7
+NO,mo i rana,24,7
+CZ,litomerice,4,7
+RO,pirjol,27,7
+PL,�owicz,25,7
+HU,szank,13,7
+RO,valea călugăreacă,27,7
+IE,"bray, co. wicklow",14,7
+AT,fürstenfeld,0,7
+CZ,zabreh na morave,4,7
+MT,safi,22,7
+DE,blaubeuren,5,7
+UK,derry,33,7
+PL,nowa ruda,25,7
+DE,hildburghausen,5,7
+AT,schönau,0,7
+SI,medvode,30,7
+LT,širvintos,18,7
+DE,zeitlarn,5,7
+FI,kannus,10,7
+CZ,praha 5,4,7
+HU,salgotarjan,13,7
+AT,günselsdorf,0,7
+ES,donostia - san sebasti?n,9,7
+SK,oščadnica,31,7
+UK,llanelli,33,7
+IT,siena,16,7
+DE,ballweiler,5,7
+UK,derbyshire,33,7
+PT,ger�s,26,7
+RO,băicoi,27,7
+RO,câmpina,27,7
+SK,tur?ianske teplice,31,7
+CZ,praha 6,4,7
+DE,sillenbuch,5,7
+RO,gârleni,27,7
+DE,tecklenburg,5,7
+PT,terras do bouro,26,7
+SK,krasno nad kysucou,31,7
+SK,komjatná,31,7
+DE,auenwald,5,7
+DE,blieskastel,5,7
+NL,soestdijk,23,7
+LT,druskininkai,18,7
+LI,bendern,17,6
+CZ,trebon,4,6
+DE,buir,5,6
+EE,märjamaa,7,6
+CZ,jesenik,4,6
+FR,tourcoing,11,6
+SK,cifer,31,6
+AT,ansfelden,0,6
+TR,denizli,32,6
+SK,veľké leváre,31,6
+HR,mali lošinj,12,6
+ES,�cija,9,6
+DE,hilburghausen,5,6
+SK,?adca,31,6
+LI,triesen,17,6
+IE,portlaoise,14,6
+DE,pahna,5,6
+HU,kadark?t,13,6
+SI,radenci,30,6
+HU,harc,13,6
+FR,laon,11,6
+CZ,prerov,4,6
+DE,wei?ensee,5,6
+HU,mikepércs,13,6
+AT,deutschlandsberg,0,6
+AT,mürzzuschlag,0,6
+SK,staškov,31,6
+HU,börcs,13,6
+HU,márok,13,6
+RO,secuieni,27,6
+PL,jednoro�ec,25,6
+RO,odobești,27,6
+CZ,teplice,4,6
+FR,rieux-volvestre,11,6
+FR,méze,11,6
+FR,saint-quentin,11,6
+EE,iisaku,7,6
+ES,villanueva mes�a,9,5
+DE,jugendzentrum ellrich,5,5
+PL,roztoka,25,5
+FR,saint-ouen,11,5
+NL,alphen aan de rijn,23,5
+SI,kr?ko,30,5
+HU,levelek,13,5
+HU,úrhida,13,5
+HU,"kápolnásnyék, budapest",13,5
+PT,povoa de varzim,26,5
+HR,stubicke toplice,12,5
+AT,dornbirn,0,5
+IE,yerevan,14,5
+HU,halimba,13,5
+UK,pontypridd,33,5
+NO,bodø,24,5
+LT,gratiškės,18,5
+ES,c�rdoba,9,5
+DE,salach,5,5
+DE,buttst?dt,5,5
+SI,trstenik,30,5
+HU,ajka,13,5
+SK,klokočov pri čadci,31,5
+CZ,troubky,4,5
+FR,agde,11,5
+FR,dourgne,11,5
+CZ,pečky,4,5
+RO,com. traian,27,5
+BG,vratza,2,5
+HU,dusnok,13,5
+AT,traisen,0,5
+UK,newport,33,5
+HU,bácsalmás,13,5
+PL,tczew,25,5
+CZ,slany,4,5
+AT,marz,0,5
+DE,s?mmerda,5,5
+HU,bugyi,13,5
+FR,bois-le-roi,11,5
+RO,solonț,27,5
+FR,ribérac,11,5
+HU,doboz,13,5
+LT,kaišiadorys,18,5
+DE,pohlitz,5,5
+FR,07 annonay,11,5
+CZ,kamýk nad vltavou,4,5
+HU,budaors,13,5
+HU,pásztó,13,5
+PL,tychy,25,5
+IE,"castlebar, co.mayo",14,5
+SK,tekovské nemce,31,5
+HU,dombóvár,13,4
+PL,kościerzyna,25,4
+HU,ikevár,13,4
+EE,jõhvi,7,4
+PL,kutno,25,4
+AT,liezen,0,4
+LV,n�ca,20,4
+SK,považska bystrica,31,4
+AT,mils,0,4
+SK,?ilina,31,4
+FR,la teste de buch,11,4
+HU,siófok,13,4
+FR,10000 - troyes,11,4
+MT,phoenicia,22,4
+RO,vălenii de munte,27,4
+CZ,brandys nad labem,4,4
+LV,ķegums,20,4
+HU,mohács,13,4
+RO,podul turcului,27,4
+FR,rouvroy-le-merles,11,4
+UK,pembroke,33,4
+AT,st.gilgen,0,4
+UK,pontypool,33,4
+RO,magiresti,27,4
+CZ,prague 2,4,4
+LI,altach,17,4
+BG,lovetch,2,4
+FR,marseillan,11,4
+CZ,mohelnice,4,4
+FR,london,11,4
+DE,eichst�tt,5,4
+BE,namur,1,4
+DE,berlin bezirk mitte,5,4
+UK,dundee,33,4
+CZ,prague 4,4,4
+BE,innsbruck,1,4
+DE,harztor,5,4
+CZ,usti nad labem,4,4
+HU,leányvár,13,4
+AT,klagenfurt am w�rthersee,0,3
+ES,aviles,9,3
+UK,st andrews,33,3
+SI,idirja,30,3
+PT,vila nova de famalic�o,26,3
+IE,laois,14,3
+ES,g�nes,9,3
+BG,kysutendil,2,3
+IE,mallow,14,3
+CZ,melnik,4,3
+TR,bingöl,32,3
+SK,vrbov?,31,3
+FR,07100 annonay,11,3
+MK,novaci,21,3
+SK,pie??any,31,3
+AT,leoben,0,3
+AT,obertrum,0,3
+DE,bremen - fesenfeld,5,3
+SE,göteborg,29,3
+FR,54220 - benoite vaux,11,3
+MT,naxxar,22,3
+DE,kirchberg,5,3
+ES,torres de piles,9,3
+EE,parnu,7,3
+HU,heves,13,3
+BE,st.vith,1,3
+FR,62 air sur la lys,11,3
+HU,mezőtúr,13,2
+PL,cz?stochowa,25,2
+ES,atarfe,9,2
+IE,an ring,14,2
+SK,sere?,31,2
+PL,b?dzin,25,2
+EE,sauga,7,2
+IE,bray,14,2
+CZ,blatna,4,2
+IE,"castlebar, co. mayo",14,2
+HU,szajol,13,2
+CZ,vodnany,4,2
+UK,asford,33,2
+DE,halle(saale),5,2
+IT,latiano,16,2
+FR,60120 - rouvroy-les-merles,11,2
+TR,e,32,2
+FR,62 - aire sur la lys,11,2
+DE,wenigerode,5,2
+FR,starsburk,11,2
+UK,newry & mourne,33,2
+UK,newtown abbey,33,2
+FR,sainte-foy-l'argentiere,11,2
+FI,karjaa,10,2
+PL,�om�a,25,2
+DE,eppelborn,5,2
+FR,annecy-le-vieux,11,2
+CZ,prague 20,4,2
+FR,bagneres de bigorre,11,2
+DE,81675 m�nchen,5,2
+DE,schwerin,5,2
+EL,athen,8,2
+DE,82061 m�nchen,5,2
+PT,terras de bouro,26,2
+CZ,prague 11,4,2
+IT,bonn,16,2
+FR,07100 - annonay,11,2
+HR,donja stubica,12,2
+DE,"berlin, mitte",5,2
+IE,dungarvan,14,2
+NL,berlin,23,2
+DK,stege,6,2
+EE,tori,7,2
+DK,odense,6,2
+PL,lutomiersk,25,2
+HU,berettyóújfalu,13,2
+HU,baja,13,2
+CZ,cesky krumlov,4,2
+DK,ballerup,6,2
+PL,piotkr?w trybunalski,25,2
+PL,rzesz?w,25,2
+SK,zilina,31,2
+TR,i̇çel (mersin),32,1
+EE,tabiere,7,1
+TR,muğla,32,1
+TR,iğdir,32,1
+EE,v��tsa,7,1
+TR,kirikkale,32,1
+TR,kahramanmaraş,32,1
+TR,kırıkkal,32,1
+EE,v�iko-h�rm� k�la,7,1
+TR,karabük,32,1
+TR,kirklareli̇,32,1
+MK,gjorchepetrov-skopje,21,1
+MK,ohird,21,1
+EE,vastse-kuutse,7,1
+TR,kirşehi̇r,32,1
+AT,oberndorf,0,1
+MK,gjorce petrov-skopje,21,1
+TR,mani̇sa,32,1
+TR,kars,32,1
+IE,"iveagh house, dublin",14,1
+DE,rostock,5,1
+TR,ni̇ğde,32,1
+IE,wicklow,14,1
+DK,aarhus,6,1
+UK,greater manchester,33,1
+UK,hove,33,1
+IT,bariari,16,1
+DE,berliln,5,1
+DE,berglen,5,1
+AT,furth/göttweig,0,1
+UK,londonlasgow,33,1
+DE,werniogerode,5,1
+DE,belgrad,5,1
+IT,menaggio (como),16,1
+IT,"menaggio, como",16,1
+IT,puglia,16,1
+DE,weissach im tal#,5,1
+UK,nr. truro,33,1
+DE,auma_weidatal,5,1
+DE,10405 berlin,5,1
+DE,weinstadt,5,1
+UK,southhampton,33,1
+DE,82061  m�nchen,5,1
+DE,allmersbach im tal,5,1
+UK,upton upon severn,33,1
+DE,staußberg,5,1
+DE,stuttugart,5,1
+UK,elderslie,33,1
+UK,edinub,33,1
+DK,berlin,6,1
+TR,şanliurfa,32,1
+TR,ordu,32,1
+TR,sakarya,32,1
+MK,gazi baba- skopje,21,1
+MK,gazi baba - skopje,21,1
+TR,si̇i̇rt,32,1
+EE,pivarootsi,7,1
+TR,tunceli̇,32,1
+LV,ventspils,20,1
+TR,zonguldak,32,1
+TR,çankiri,32,1
+IE,athlone,14,1
+IE,"enniskerry co wicklow,",14,1
+UK,derrry,33,1
+IE,"enniskerry, co",14,1
+DE,sangerhausen,5,1
+DK,silkeborg,6,1
+LV,latvia,20,1
+IE,"enniskerry, co. wcklow",14,1
+DE,schelmenzholz,5,1
+UK,carmarthen,33,1
+DE,stendal,5,1
+IE,leeaun,14,1
+IE,leenan,14,1
+LV,barkovs,20,1
+EL,afixis,8,1
+BE,bruxeles,1,1
+EL,alexandrupolis,8,1
+HR,petrijevci,12,1
+DE,"hellersdorf, berlin",5,1
+FI,hämeenlnna,10,1
+HR,brije��e,12,1
+FI,naatntali,10,1
+FI,sein�joki,10,1
+PL,szczecin,25,1
+DE,hamburg - sternschanze,5,1
+FR,07 - annonay,11,1
+FR,1000 troyes,11,1
+FR,10000 angers,11,1
+FR,12 aveyron,11,1
+FR,valdéries,11,1
+RS,belgrade,28,1
+FR,60 -  rouvroy les merles,11,1
+PL,toru?,25,1
+FR,60 - rouvroy les merles,11,1
+FR,6120 rouvroy les merles,11,1
+PL,sobkow,25,1
+PL,rakowiec,25,1
+DE,eiserbuder weg 12 16348 marienwerder/ ot ruhlsdorf,5,1
+ES,villanueva del fresno,9,1
+PL,maszewo,25,1
+ES,tolosa,9,1
+DE,illingen,5,1
+SI,tstenik,30,1
+DE,burgstetten,5,1
+PL,"oksywie,  gdynia",25,1
+DE,hohe b�rde ot irxleben,5,1
+PL,"oksywie,gdynia",25,1
+PL,ostrowiec świętokrzyski,25,1
+SI,ren�e-vogrsko,30,1
+SI,ren�e vogrsko,30,1
+PL,pastwiska,25,1
+DE,dessau,5,1
+HR,vi�njevac,12,1
+PL,pozna?,25,1
+BE,jakarta,1,1
+PL,rajgrod,25,1
+FR,62 - air sur la lys,11,1
+FR,s�l�stat (68),11,1
+TR,hatay,32,1
+RO,garleni,27,1
+PT,povoa de arzim,26,1
+FR,bois le bois,11,1
+PT,p�voa de vrzim,26,1
+PT,p�voa do varzim,26,1
+PT,p�voa e varzim,26,1
+DE,greifswald,5,1
+FR,chainaz,11,1
+BG,penik,2,1
+PT,v,26,1
+RO,bucurești,27,1
+DE,gre,5,1
+PT,viana,26,1
+FR,guitalens,11,1
+DE,fridich jakob heims,5,1
+BG,radomir,2,1
+FR,las cases,11,1
+RO,baile homorod,27,1
+FR,montagnac,11,1
+DE,feriendorf dorado brandenburg bei berlin eiserbuder weg 12  16348 marienwerder/ ot ruhlsdorfferiendorf dorado brandenburg bei berlin eiserbuder weg 12  16348 marienwerder/ ot ruhlsdorf,5,1
+PL,wia�a,25,1
+FR,palaiseau,11,1
+FR,ste foy l argentiere,11,1
+RO,slanic moldova`,27,1
+RO,slanic moldova.,27,1
+BE,st; vith,1,1
+PL,w�oc�awek,25,1
+FR,62 aire sur le lys,11,1
+PL,zielona g?ra,25,1
+FR,64 - aire sur la lys,11,1
+FR,67730 - la vancelle,11,1
+DE,hale (saale),5,1
+FR,arfons,11,1
+DE,epplhein,5,1
+FR,aventtignan,11,1
+DE,fasanenstrasse85-10623berlin,5,1
+PT,casvais,26,1
+FR,pezenas,11,1
+FR,pantin,11,1
+ES,tocina- los rosales,9,1
+SK,banská  bystrica,31,1
+SK,banská štiavnica,31,1
+NL,apeldoorn,23,1
+NL,bruxelles,23,1
+ES,almeria,9,1
+DE,openweiler,5,1
+ES,amposta (tarragona),9,1
+NL,nijmgen,23,1
+HU,nyiregyházza,13,1
+HU,nyiregyhaza,13,1
+BE,belgien,1,1
+NL,the netherlands,23,1
+NL,utrch,23,1
+NL,utre,23,1
+NL,utrechty,23,1
+SK,turanyy,31,1
+ES,benicàsim,9,1
+BE,borgerhout,1,1
+NL,utrecth,23,1
+ES,bennicàssim,9,1
+TR,a,32,1
+ES,allicante,9,1
+ES,sant joant d'alacant,9,1
+TR,aksaray,32,1
+TR,hakkari̇,32,1
+TR,gümüşhane,32,1
+TR,gazi̇antep,32,1
+DE,reinwarzhof,5,1
+MK,stuga,21,1
+TR,elaziğ,32,1
+TR,burdur,32,1
+TR,bi̇tli̇s,32,1
+TR,bi̇ngöl,32,1
+HU,pásztóó,13,1
+TR,batman,32,1
+TR,balikesi̇r,32,1
+ES,algeciras,9,1
+TR,ağri,32,1
+ES,alicnte,9,1
+TR,amasya,32,1
+ES,alilcante,9,1
+HU,mátreaverebély,13,1
+ES,c,9,1
+SK,svit,31,1
+ES,castellón,9,1
+DE,"mitte,berlin",5,1
+PL,góra,25,1
+BE,dendermone,1,1
+DE,mianz,5,1
+SK,humenné,31,1
+DE,magdburg,5,1
+HU,debrece,13,1
+SK,hndlova,31,1
+DE,lutherstadt wittenberg,5,1
+CZ,hradec kralove,4,1
+PL,krak?w,25,1
+CZ,hodonin,4,1
+SK,dunajská streda,31,1
+SK,dolný  bar,31,1
+ES,requena,9,1
+PL,lebork,25,1
+SK,c. ondrej,31,1
+CZ,hranicev čechách,4,1
+HU,g,13,1
+SK,matin,31,1
+ES,cazalla,9,1
+DE,bittefeld,5,1
+ES,castellón  de la plana,9,1
+SK,sp.nová ves,31,1
+CZ,kromeriz,4,1
+FR,jambville,11,1
+SK,sihelne,31,1
+ES,castellón de la  plana,9,1
+PL,bia?ystok,25,1
+PL,cz�tochowa,25,1
+SK,rožňa,31,1
+PL,bialystok,25,1
+DE,m�nster,5,1
+SK,považsá bystrica,31,1
+DE,münchenberndorf,5,1
+SK,nová bystrica,31,1
+PL,cz�sochowa,25,1
+LT,anykšiai,18,1
