@@ -44,7 +44,8 @@ From my analysis,
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/28558929/183365413-eeb7b227-60b5-4786-ad14-b451c6fcb7c3.png">  
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/28558929/183365601-3a7f6d84-8592-4837-82a2-d794a7b6935c.png">  
 <img width="688" alt="image" src="https://user-images.githubusercontent.com/28558929/183365717-fc56dd06-a72f-477c-ad52-f836ce2fd25b.png">   
-- I can conclude that the majority of travellers are travelling to (and from) the United Kingdom, Germany and Hungary (_to London, Berlin and Budapest_).
+
+- I can conclude that the majority of travellers are travelling to (and from) the United Kingdom, Germany and Hungary (_to London, Berlin and Budapest_)      
 - Mostly females are taking this programme.
 
 From my analysis, I can conclude that the majority of travellers are travelling to the United Kingdom, Germany and Hungary (_to London, Berlin and Budapest_)
