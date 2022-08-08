@@ -5,14 +5,13 @@ If you didn't, I did.
 Fortunately, I was able to get my hands on data about the programme and went ahead to dig into it.
 The data I'm using is pulled from [Erasmus link 2016-2020.](https://data.europa.eu/en)
 
-With this analysis, I tried to answer these questions:  
-1. Where are people travelling to?  
-2. Where are they travelling from?  
-3. What is the overall gender of people traveling?   
-4. What cities do they travel to? Or from?  
+With this analysis, I tried to answer one of these questions:  
+1. Where are people travelling to? :white_check_mark: 
+2. Where are they travelling from? :white_check_mark:
+3. What is the overall gender of people traveling? :white_check_mark:  
+4. What cities do they travel to? Or from? :white_check_mark:  
 5. At what level of education are they?  
 6. What is the nationality of the people travelling?  
-7. What is the gender of the traveller?
 
 ## Data Cleaning
 I filtered the data to get the portions I was interested in the:
