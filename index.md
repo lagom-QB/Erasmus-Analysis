@@ -5,7 +5,7 @@ If you didn't, I did.
 Fortunately, I was able to get my hands on data about the programme and went ahead to dig into it.
 The data I'm using is pulled from [Erasmus link 2016-2020.](https://data.europa.eu/en)
 
-I was focusing on answering these questions:  
+With this analysis, I tried to answer these questions:  
 1. Where are people travelling to?  
 2. Where are they travelling from?  
 3. What is the overall gender of people traveling?   
@@ -15,7 +15,7 @@ I was focusing on answering these questions:
 7. What is the gender of the traveller?
 
 ## Data Cleaning
-I filtered the data to get the sectors I was interested in the:
+I filtered the data to get the portions I was interested in the:
 
 * Participant data 
 * Sending organization 
@@ -32,7 +32,7 @@ _Columns_
 * Recieving country code  
 * Recieving city
 
-## Data Analysis
+## [Data Analysis](https://notebooks.githubusercontent.com/view/ipynb?azure_maps_enabled=true&browser=safari&color_mode=dark&commit=7fa54d631928307867019d2b9a0f4501b8dda0eb&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c61676f6d2d51422f457261736d75732d416e616c797369732f376661353464363331393238333037383637303139643262396130663435303162386464613065622f657261736d75732e6970796e62&logged_in=true&nwo=lagom-QB%2FErasmus-Analysis&path=erasmus.ipynb&platform=mac&repository_id=479828550&repository_type=Repository&version=15#1b3b99e7-d75c-4706-9ddf-ca1421f6a13d)
 Focus question was:    
 _Where are people traveling from_ and consequently, _where are they travelling to_
 
@@ -43,4 +43,5 @@ _Where are people traveling from_ and consequently, _where are they travelling t
 * Figma
 * Tableau
 
-[💫 Result 💫 ]([https://data.europa.eu/en](https://public.tableau.com/app/profile/quinsy.brenda/viz/Erasmus_16537198405220/Dashboard1?publish=yes))
+[💫 Resuling Dashboard 💫 ](https://public.tableau.com/app/profile/quinsy.brenda/viz/Erasmus_16537198405220/Dashboard1?publish=yes)
+![Res](https://raw.githubusercontent.com/lagom-QB/Erasmus-Analysis/master/Dashboard%201-3.png)
