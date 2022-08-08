@@ -36,12 +36,29 @@ _Columns_
 Focus question was:    
 _Where are people traveling from_ and consequently, _where are they travelling to_
 
+### Approach
+- Strip the portions of the data I'm not interested in. In this case, _Field of Education,Participant nationality, Education level, Participant gender_
+- Created columns for categorical data for countries so I could easily sum them up while summarizing
+- Performed summarization to get counts for what I need to answer my question.
+From my analysis,   
 
-### Tools
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/28558929/183365413-eeb7b227-60b5-4786-ad14-b451c6fcb7c3.png">  
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/28558929/183365601-3a7f6d84-8592-4837-82a2-d794a7b6935c.png">  
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/28558929/183365717-fc56dd06-a72f-477c-ad52-f836ce2fd25b.png">   
+- I can conclude that the majority of travellers are travelling to (and from) the United Kingdom, Germany and Hungary (_to London, Berlin and Budapest_).
+- Mostly females are taking this programme.
+
+From my analysis, I can conclude that the majority of travellers are travelling to the United Kingdom, Germany and Hungary (_to London, Berlin and Budapest_)
+
+## Tools
 * Python (VSCode)
 * Observable
 * Figma
 * Tableau
+
+## Next step
+In the future, I wish to answer the question "Why do people join the Erasmus programme?"   
+I'm guessing the prospect of a new city (or perhaps even a new country) is motivation. However, what would the data say?  
 
 [💫 Resuling Dashboard 💫 ](https://public.tableau.com/app/profile/quinsy.brenda/viz/Erasmus_16537198405220/Dashboard1?publish=yes)
 ![Res](https://raw.githubusercontent.com/lagom-QB/Erasmus-Analysis/master/Dashboard%201-3.png)
